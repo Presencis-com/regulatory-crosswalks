@@ -1,0 +1,15 @@
+{
+  "name": "@presencis/regulatory-crosswalks",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "Apache-2.0",
+  "description": "Active regulatory framework metadata, sector maps, and comparison crosswalks drawn from the public Presencis corpus.",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "node scripts/build-crosswalks.mjs",
+    "test": "node --test"
+  }
+}
