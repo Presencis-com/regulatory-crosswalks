@@ -11,5 +11,23 @@
   "scripts": {
     "build": "node scripts/build-crosswalks.mjs",
     "test": "node --test"
-  }
+  },
+  "author": "Presencis Ltd <github@presencis.com>",
+  "homepage": "https://github.com/Presencis-com/regulatory-crosswalks#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Presencis-com/regulatory-crosswalks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Presencis-com/regulatory-crosswalks/issues"
+  },
+  "keywords": [
+    "ai-governance",
+    "eu-ai-act",
+    "dora",
+    "nis2",
+    "gdpr",
+    "iso-42001",
+    "regulatory-crosswalks"
+  ]
 }
