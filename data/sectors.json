@@ -1,0 +1,191 @@
+[
+  {
+    "id": "healthcare",
+    "label": "Healthcare & Life Sciences",
+    "description": "AI regulations for healthcare providers, medical device manufacturers, pharma, and clinical AI systems.",
+    "regulations": [
+      "eu-ai-act",
+      "gdpr",
+      "mdr",
+      "fda-samd",
+      "hipaa",
+      "dcb0129",
+      "dcb0160",
+      "dtac",
+      "dspt",
+      "caldicott",
+      "health-canada-samd",
+      "pmda-samd",
+      "anvisa-samd",
+      "iso-42001",
+      "ehds"
+    ]
+  },
+  {
+    "id": "fintech",
+    "label": "Financial Services",
+    "description": "AI compliance for banks, insurers, investment firms, and fintech platforms.",
+    "regulations": [
+      "eu-ai-act",
+      "gdpr",
+      "dora",
+      "mifid2",
+      "pra-ss1",
+      "cfpb-ecoa",
+      "nis2",
+      "iso-27001",
+      "soc-2",
+      "mas-feat",
+      "mas-trm",
+      "rbi-free-ai",
+      "apra-cps234",
+      "apra-cpg235",
+      "fsc-ai",
+      "finma-ai",
+      "tcfd"
+    ]
+  },
+  {
+    "id": "defence",
+    "label": "Defence & National Security",
+    "description": "AI compliance for defence contractors, intelligence agencies, and national security applications.",
+    "regulations": [
+      "eu-ai-act",
+      "nist-800-171",
+      "ism",
+      "disp",
+      "iso-27001",
+      "eucc",
+      "nis2",
+      "itsg-33",
+      "essential-eight",
+      "uk-procurement-act-2023"
+    ]
+  },
+  {
+    "id": "government",
+    "label": "Government & Public Sector",
+    "description": "AI regulations for government agencies, procurement, and public service delivery.",
+    "regulations": [
+      "eu-ai-act",
+      "gdpr",
+      "iso-42001",
+      "iso-27001",
+      "soc-2",
+      "nis2",
+      "tb-directive",
+      "osfi-e23",
+      "uk-procurement-act-2023",
+      "pipeda",
+      "privacy-act-apps",
+      "algo-charter",
+      "data-governance-act"
+    ]
+  },
+  {
+    "id": "manufacturing",
+    "label": "Manufacturing & Industrial",
+    "description": "AI compliance for manufacturers, supply chain, and industrial automation.",
+    "regulations": [
+      "eu-ai-act",
+      "cra",
+      "nis2",
+      "iso-27001",
+      "iso-42001",
+      "eucc",
+      "gdpr",
+      "ghg-protocol",
+      "csrd"
+    ]
+  },
+  {
+    "id": "education",
+    "label": "Education & Research",
+    "description": "AI regulations for educational institutions, EdTech, and research organisations.",
+    "regulations": [
+      "eu-ai-act",
+      "gdpr",
+      "iso-42001",
+      "pipeda",
+      "lgpd",
+      "appi",
+      "pdpa",
+      "pipa"
+    ]
+  },
+  {
+    "id": "telecom",
+    "label": "Telecommunications & Technology",
+    "description": "AI compliance for telecoms, ISPs, cloud providers, and technology companies.",
+    "regulations": [
+      "eu-ai-act",
+      "gdpr",
+      "cra",
+      "nis2",
+      "iso-27001",
+      "soc-2",
+      "cyber-essentials",
+      "essential-eight",
+      "pdpa",
+      "eprivacy-directive"
+    ]
+  },
+  {
+    "id": "privacy",
+    "label": "Data Protection & Privacy",
+    "description": "Privacy regulations across all jurisdictions for any organisation processing personal data.",
+    "regulations": [
+      "gdpr",
+      "pipeda",
+      "lgpd",
+      "appi",
+      "pdpa",
+      "pipa",
+      "fadp",
+      "dpdpa",
+      "nz-privacy",
+      "privacy-act-apps",
+      "il-ppl",
+      "eprivacy-directive",
+      "data-governance-act"
+    ]
+  },
+  {
+    "id": "cybersecurity",
+    "label": "Cybersecurity & Information Security",
+    "description": "Cybersecurity frameworks and regulations for securing AI systems and infrastructure.",
+    "regulations": [
+      "nis2",
+      "cra",
+      "iso-27001",
+      "soc-2",
+      "nist-800-171",
+      "cyber-essentials",
+      "essential-eight",
+      "ism",
+      "itsg-33",
+      "eucc"
+    ]
+  },
+  {
+    "id": "esg",
+    "label": "ESG & Sustainability",
+    "description": "Environmental, social, and governance regulations for corporate sustainability reporting, carbon accounting, and greenwashing prevention.",
+    "regulations": [
+      "csrd",
+      "tcfd",
+      "ghg-protocol"
+    ]
+  },
+  {
+    "id": "data-governance",
+    "label": "Data Governance & Sharing",
+    "description": "Regulations governing data sharing, intermediation, altruism, and electronic communications privacy.",
+    "regulations": [
+      "data-governance-act",
+      "data-act",
+      "gdpr",
+      "eprivacy-directive"
+    ]
+  }
+]

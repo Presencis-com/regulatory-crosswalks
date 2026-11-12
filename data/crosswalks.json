@@ -1,0 +1,4211 @@
+{
+  "comparisons": [
+    {
+      "id": "ccpa-vs-appi",
+      "sourceId": "ccpa",
+      "targetId": "appi",
+      "title": "CCPA/CPRA vs Japan APPI — Complete Comparison",
+      "summary": "Side-by-side comparison of the California Consumer Privacy Act (as amended by CPRA) and Japan's Act on the Protection of Personal Information: scope, requirements, penalties, and compliance overlap.",
+      "canonicalUrl": "https://presencis.com/comparisons/ccpa-vs-appi/"
+    },
+    {
+      "id": "ccpa-vs-hipaa",
+      "sourceId": "ccpa",
+      "targetId": "hipaa",
+      "title": "CCPA/CPRA vs HIPAA — Complete Comparison",
+      "summary": "Side-by-side comparison of the California Consumer Privacy Act (as amended by CPRA) and the Health Insurance Portability and Accountability Act: scope, requirements, and compliance overlap.",
+      "canonicalUrl": "https://presencis.com/comparisons/ccpa-vs-hipaa/"
+    },
+    {
+      "id": "ccpa-vs-lgpd",
+      "sourceId": "ccpa",
+      "targetId": "lgpd",
+      "title": "CCPA/CPRA vs Brazil LGPD — Complete Comparison",
+      "summary": "Side-by-side comparison of the California Consumer Privacy Act (as amended by CPRA) and Brazil's Lei Geral de Protecao de Dados: scope, requirements, penalties, and compliance overlap.",
+      "canonicalUrl": "https://presencis.com/comparisons/ccpa-vs-lgpd/"
+    },
+    {
+      "id": "ccpa-vs-pipa",
+      "sourceId": "ccpa",
+      "targetId": "pipa",
+      "title": "CCPA/CPRA vs South Korea PIPA — Complete Comparison",
+      "summary": "Side-by-side comparison of the California Consumer Privacy Act (as amended by CPRA) and South Korea's Personal Information Protection Act: scope, requirements, penalties, and compliance overlap.",
+      "canonicalUrl": "https://presencis.com/comparisons/ccpa-vs-pipa/"
+    },
+    {
+      "id": "ccpa-vs-pipeda",
+      "sourceId": "ccpa",
+      "targetId": "pipeda",
+      "title": "CCPA/CPRA vs Canada PIPEDA — Complete Comparison",
+      "summary": "Side-by-side comparison of the California Consumer Privacy Act (as amended by CPRA) and Canada's Personal Information Protection and Electronic Documents Act: scope, requirements, penalties, and compliance overlap.",
+      "canonicalUrl": "https://presencis.com/comparisons/ccpa-vs-pipeda/"
+    },
+    {
+      "id": "cfpb-ecoa-vs-eu-ai-act",
+      "sourceId": "cfpb-ecoa",
+      "targetId": "eu-ai-act",
+      "title": "CFPB ECOA/Reg B vs EU AI Act — Complete Comparison",
+      "summary": "Side-by-side comparison of US Equal Credit Opportunity Act enforcement (CFPB) and the EU AI Act: anti-discrimination in lending versus AI system regulation.",
+      "canonicalUrl": "https://presencis.com/comparisons/cfpb-ecoa-vs-eu-ai-act/"
+    },
+    {
+      "id": "cra-vs-nis2",
+      "sourceId": "cra",
+      "targetId": "nis2",
+      "title": "CRA vs NIS2 — Complete Comparison Guide",
+      "summary": "Side-by-side comparison of the Cyber Resilience Act (CRA) and the NIS2 Directive: scope, requirements, penalties, and compliance overlap.",
+      "canonicalUrl": "https://presencis.com/comparisons/cra-vs-nis2/"
+    },
+    {
+      "id": "cra-vs-nist-csf",
+      "sourceId": "cra",
+      "targetId": "nist-csf",
+      "title": "EU Cyber Resilience Act vs NIST CSF 2.0 — Complete Comparison",
+      "summary": "Side-by-side comparison of the EU Cyber Resilience Act and NIST CSF 2.0: product cybersecurity regulation versus organisational cybersecurity framework.",
+      "canonicalUrl": "https://presencis.com/comparisons/cra-vs-nist-csf/"
+    },
+    {
+      "id": "csrd-vs-sfdr",
+      "sourceId": "csrd",
+      "targetId": "sfdr",
+      "title": "CSRD vs SFDR — Complete Comparison",
+      "summary": "Side-by-side comparison of the Corporate Sustainability Reporting Directive and Sustainable Finance Disclosure Regulation: corporate sustainability reporting versus financial product sustainability disclosure.",
+      "canonicalUrl": "https://presencis.com/comparisons/csrd-vs-sfdr/"
+    },
+    {
+      "id": "cyber-essentials-vs-iso-27001",
+      "sourceId": "cyber-essentials",
+      "targetId": "iso-27001",
+      "title": "Cyber Essentials vs ISO 27001 — Complete Comparison Guide",
+      "summary": "Side-by-side comparison of Cyber Essentials and ISO 27001: scope, requirements, costs, and compliance overlap.",
+      "canonicalUrl": "https://presencis.com/comparisons/cyber-essentials-vs-iso-27001/"
+    },
+    {
+      "id": "dcb0129-vs-dcb0160",
+      "sourceId": "dcb0129",
+      "targetId": "dcb0160",
+      "title": "DCB0129 vs DCB0160 — Complete Comparison",
+      "summary": "Side-by-side comparison of NHS DCB0129 (manufacturer standard) and DCB0160 (deployer standard): dual-responsibility clinical risk management for health IT.",
+      "canonicalUrl": "https://presencis.com/comparisons/dcb0129-vs-dcb0160/"
+    },
+    {
+      "id": "dora-vs-apra-cps234",
+      "sourceId": "dora",
+      "targetId": "apra-cps234",
+      "title": "DORA vs APRA CPS 234 — Complete Comparison",
+      "summary": "Side-by-side comparison of the EU DORA and Australia's APRA CPS 234 Information Security prudential standard: digital resilience requirements across jurisdictions.",
+      "canonicalUrl": "https://presencis.com/comparisons/dora-vs-apra-cps234/"
+    },
+    {
+      "id": "dora-vs-iso-27001",
+      "sourceId": "dora",
+      "targetId": "iso-27001",
+      "title": "DORA vs ISO 27001 — Complete Comparison",
+      "summary": "Side-by-side comparison of the EU DORA and ISO 27001: financial sector digital resilience regulation versus international information security management standard.",
+      "canonicalUrl": "https://presencis.com/comparisons/dora-vs-iso-27001/"
+    },
+    {
+      "id": "dora-vs-mas-trm",
+      "sourceId": "dora",
+      "targetId": "mas-trm",
+      "title": "DORA vs MAS TRM Guidelines — Complete Comparison",
+      "summary": "Side-by-side comparison of the EU DORA and Singapore MAS Technology Risk Management Guidelines: digital resilience requirements for financial institutions.",
+      "canonicalUrl": "https://presencis.com/comparisons/dora-vs-mas-trm/"
+    },
+    {
+      "id": "dora-vs-nis2",
+      "sourceId": "dora",
+      "targetId": "nis2",
+      "title": "DORA vs NIS2 — Complete Comparison Guide",
+      "summary": "Side-by-side comparison of DORA and NIS2: scope, requirements, penalties, and compliance overlap for financial entities navigating dual obligations.",
+      "canonicalUrl": "https://presencis.com/comparisons/dora-vs-nis2/"
+    },
+    {
+      "id": "dora-vs-pra-ss1",
+      "sourceId": "dora",
+      "targetId": "pra-ss1",
+      "title": "DORA vs UK PRA SS1/21 — Complete Comparison",
+      "summary": "Side-by-side comparison of the EU Digital Operational Resilience Act and the UK PRA Supervisory Statement SS1/21 on operational resilience: requirements, timelines, and compliance overlap.",
+      "canonicalUrl": "https://presencis.com/comparisons/dora-vs-pra-ss1/"
+    },
+    {
+      "id": "dora-vs-soc-2",
+      "sourceId": "dora",
+      "targetId": "soc-2",
+      "title": "DORA vs SOC 2 — Complete Comparison",
+      "summary": "Side-by-side comparison of the EU DORA and SOC 2: binding financial resilience regulation versus trust service audit for ICT third-party providers.",
+      "canonicalUrl": "https://presencis.com/comparisons/dora-vs-soc-2/"
+    },
+    {
+      "id": "dpdpa-vs-pdpa",
+      "sourceId": "dpdpa",
+      "targetId": "pdpa",
+      "title": "India DPDPA vs Singapore PDPA — Complete Comparison",
+      "summary": "Side-by-side comparison of India's Digital Personal Data Protection Act 2023 and Singapore's Personal Data Protection Act: scope, requirements, penalties, and compliance overlap for South/Southeast Asian operations.",
+      "canonicalUrl": "https://presencis.com/comparisons/dpdpa-vs-pdpa/"
+    },
+    {
+      "id": "eu-ai-act-vs-ai-verify",
+      "sourceId": "eu-ai-act",
+      "targetId": "ai-verify",
+      "title": "EU AI Act vs UK AI Verify — Complete Comparison",
+      "summary": "Side-by-side comparison of the EU AI Act and the UK's AI Verify testing framework: binding regulation versus voluntary testing, and how they complement each other.",
+      "canonicalUrl": "https://presencis.com/comparisons/eu-ai-act-vs-ai-verify/"
+    },
+    {
+      "id": "eu-ai-act-vs-algo-charter",
+      "sourceId": "eu-ai-act",
+      "targetId": "algo-charter",
+      "title": "EU AI Act vs Canadian Algorithmic Impact Assessment — Complete Comparison",
+      "summary": "Side-by-side comparison of the EU AI Act and Canada's Directive on Automated Decision-Making (Algorithmic Impact Assessment): scope, requirements, and compliance overlap.",
+      "canonicalUrl": "https://presencis.com/comparisons/eu-ai-act-vs-algo-charter/"
+    },
+    {
+      "id": "eu-ai-act-vs-cbuae-ai",
+      "sourceId": "eu-ai-act",
+      "targetId": "cbuae-ai",
+      "title": "EU AI Act vs CBUAE AI Governance — Complete Comparison",
+      "summary": "Side-by-side comparison of the EU AI Act and the Central Bank of the UAE's AI governance framework: scope, requirements, and compliance overlap.",
+      "canonicalUrl": "https://presencis.com/comparisons/eu-ai-act-vs-cbuae-ai/"
+    },
+    {
+      "id": "eu-ai-act-vs-dsa",
+      "sourceId": "eu-ai-act",
+      "targetId": "dsa",
+      "title": "EU AI Act vs Digital Services Act (DSA) — Complete Comparison",
+      "summary": "Side-by-side comparison of the EU AI Act and Digital Services Act: how AI regulation and platform regulation interact for recommendation algorithms and content moderation.",
+      "canonicalUrl": "https://presencis.com/comparisons/eu-ai-act-vs-dsa/"
+    },
+    {
+      "id": "eu-ai-act-vs-fda-samd",
+      "sourceId": "eu-ai-act",
+      "targetId": "fda-samd",
+      "title": "EU AI Act vs FDA SaMD Framework — Complete Comparison",
+      "summary": "Side-by-side comparison of the EU AI Act and the FDA's Software as a Medical Device framework: scope, requirements, and compliance overlap for AI-based medical software.",
+      "canonicalUrl": "https://presencis.com/comparisons/eu-ai-act-vs-fda-samd/"
+    },
+    {
+      "id": "eu-ai-act-vs-fsc-ai",
+      "sourceId": "eu-ai-act",
+      "targetId": "fsc-ai",
+      "title": "EU AI Act vs South Korea FSC AI Guidelines — Complete Comparison",
+      "summary": "Side-by-side comparison of the EU AI Act and South Korea's Financial Services Commission AI Guidelines: scope, requirements, and compliance overlap for financial AI.",
+      "canonicalUrl": "https://presencis.com/comparisons/eu-ai-act-vs-fsc-ai/"
+    },
+    {
+      "id": "eu-ai-act-vs-gdpr",
+      "sourceId": "eu-ai-act",
+      "targetId": "gdpr",
+      "title": "EU AI Act vs GDPR — Complete Comparison Guide",
+      "summary": "Side-by-side comparison of the EU AI Act and GDPR: scope, requirements, penalties, and compliance overlap.",
+      "canonicalUrl": "https://presencis.com/comparisons/eu-ai-act-vs-gdpr/"
+    },
+    {
+      "id": "eu-ai-act-vs-iso-42001",
+      "sourceId": "eu-ai-act",
+      "targetId": "iso-42001",
+      "title": "EU AI Act vs ISO 42001 — Complete Comparison Guide",
+      "summary": "Side-by-side comparison of the EU AI Act and ISO 42001: scope, requirements, penalties, and compliance overlap.",
+      "canonicalUrl": "https://presencis.com/comparisons/eu-ai-act-vs-iso-42001/"
+    },
+    {
+      "id": "eu-ai-act-vs-kor-ai-basic",
+      "sourceId": "eu-ai-act",
+      "targetId": "kor-ai-basic",
+      "title": "EU AI Act vs South Korea AI Basic Act — Complete Comparison",
+      "summary": "Side-by-side comparison of the EU AI Act and South Korea's AI Basic Act: scope, risk classification, requirements, penalties, and compliance overlap.",
+      "canonicalUrl": "https://presencis.com/comparisons/eu-ai-act-vs-kor-ai-basic/"
+    },
+    {
+      "id": "eu-ai-act-vs-machinery-regulation",
+      "sourceId": "eu-ai-act",
+      "targetId": "machinery-regulation",
+      "title": "EU AI Act vs EU Machinery Regulation — Complete Comparison",
+      "summary": "Side-by-side comparison of the EU AI Act and EU Machinery Regulation 2023/1230: how AI safety requirements interact with machinery safety for autonomous and AI-equipped machines.",
+      "canonicalUrl": "https://presencis.com/comparisons/eu-ai-act-vs-machinery-regulation/"
+    },
+    {
+      "id": "eu-ai-act-vs-mdr",
+      "sourceId": "eu-ai-act",
+      "targetId": "mdr",
+      "title": "EU AI Act vs EU Medical Device Regulation (MDR) — Complete Comparison",
+      "summary": "Side-by-side comparison of the EU AI Act and EU Medical Device Regulation 2017/745: how AI-specific requirements layer onto medical device regulation.",
+      "canonicalUrl": "https://presencis.com/comparisons/eu-ai-act-vs-mdr/"
+    },
+    {
+      "id": "eu-aml-package-vs-gdpr",
+      "sourceId": "eu-aml-package",
+      "targetId": "gdpr",
+      "title": "EU AML Package vs GDPR — Complete Comparison",
+      "summary": "Side-by-side comparison of the EU AML Package and GDPR: where anti-money laundering obligations and data protection rights create tension and overlap.",
+      "canonicalUrl": "https://presencis.com/comparisons/eu-aml-package-vs-gdpr/"
+    },
+    {
+      "id": "eu-aml-package-vs-uk-mlr-2017",
+      "sourceId": "eu-aml-package",
+      "targetId": "uk-mlr-2017",
+      "title": "EU AML Package vs UK MLR 2017 — Complete Comparison",
+      "summary": "Side-by-side comparison of the EU Anti-Money Laundering Package (AMLR/AMLD6) and UK Money Laundering Regulations 2017: requirements, enforcement, and compliance overlap.",
+      "canonicalUrl": "https://presencis.com/comparisons/eu-aml-package-vs-uk-mlr-2017/"
+    },
+    {
+      "id": "fda-samd-vs-health-canada-samd",
+      "sourceId": "fda-samd",
+      "targetId": "health-canada-samd",
+      "title": "FDA SaMD vs Health Canada SaMD — Complete Comparison",
+      "summary": "Side-by-side comparison of FDA and Health Canada approaches to Software as a Medical Device regulation.",
+      "canonicalUrl": "https://presencis.com/comparisons/fda-samd-vs-health-canada-samd/"
+    },
+    {
+      "id": "fda-samd-vs-pmda-samd",
+      "sourceId": "fda-samd",
+      "targetId": "pmda-samd",
+      "title": "FDA SaMD vs PMDA SaMD — Complete Comparison",
+      "summary": "Side-by-side comparison of FDA and Japan PMDA approaches to Software as a Medical Device regulation.",
+      "canonicalUrl": "https://presencis.com/comparisons/fda-samd-vs-pmda-samd/"
+    },
+    {
+      "id": "gdpr-vs-adgm-dp",
+      "sourceId": "gdpr",
+      "targetId": "adgm-dp",
+      "title": "GDPR vs ADGM Data Protection Regulations — Complete Comparison",
+      "summary": "Side-by-side comparison of the EU GDPR and the Abu Dhabi Global Market Data Protection Regulations 2021: scope, requirements, penalties, and compliance overlap.",
+      "canonicalUrl": "https://presencis.com/comparisons/gdpr-vs-adgm-dp/"
+    },
+    {
+      "id": "gdpr-vs-appi",
+      "sourceId": "gdpr",
+      "targetId": "appi",
+      "title": "GDPR vs Japan APPI — Complete Comparison Guide",
+      "summary": "Side-by-side comparison of GDPR and Japan's APPI: scope, requirements, penalties, and compliance overlap.",
+      "canonicalUrl": "https://presencis.com/comparisons/gdpr-vs-appi/"
+    },
+    {
+      "id": "gdpr-vs-ccpa",
+      "sourceId": "gdpr",
+      "targetId": "ccpa",
+      "title": "GDPR vs CCPA/CPRA — Complete Comparison Guide",
+      "summary": "Side-by-side comparison of GDPR and CCPA/CPRA: scope, requirements, penalties, and compliance overlap.",
+      "canonicalUrl": "https://presencis.com/comparisons/gdpr-vs-ccpa/"
+    },
+    {
+      "id": "gdpr-vs-dpdpa",
+      "sourceId": "gdpr",
+      "targetId": "dpdpa",
+      "title": "GDPR vs India DPDPA 2023 — Two Models of Data Protection",
+      "summary": "The EU GDPR and India's Digital Personal Data Protection Act 2023 both protect personal data but take structurally different approaches. GDPR offers six legal bases for processing, while DPDPA relies almost exclusively on consent and legitimate use. GDPR is prescriptive and rights-heavy; DPDPA is principle-based, with the operative detail set by the Digital Personal Data Protection Rules, 2025 — notified on 13 November 2025 and commencing in three tranches to 13 May 2027.",
+      "canonicalUrl": "https://presencis.com/comparisons/gdpr-vs-dpdpa/"
+    },
+    {
+      "id": "gdpr-vs-fadp",
+      "sourceId": "gdpr",
+      "targetId": "fadp",
+      "title": "GDPR vs Swiss FADP — Complete Comparison Guide",
+      "summary": "Side-by-side comparison of GDPR and Switzerland's revised Federal Act on Data Protection (FADP/nDSG): scope, requirements, penalties, and compliance overlap.",
+      "canonicalUrl": "https://presencis.com/comparisons/gdpr-vs-fadp/"
+    },
+    {
+      "id": "gdpr-vs-il-ppl",
+      "sourceId": "gdpr",
+      "targetId": "il-ppl",
+      "title": "GDPR vs Israel Protection of Privacy Law — Complete Comparison",
+      "summary": "Side-by-side comparison of the EU GDPR and Israel's Protection of Privacy Law 5741-1981: scope, requirements, penalties, and compliance overlap.",
+      "canonicalUrl": "https://presencis.com/comparisons/gdpr-vs-il-ppl/"
+    },
+    {
+      "id": "gdpr-vs-iso-27701",
+      "sourceId": "gdpr",
+      "targetId": "iso-27701",
+      "title": "GDPR vs ISO 27701 — Complete Comparison",
+      "summary": "Side-by-side comparison of the EU GDPR and ISO 27701 Privacy Information Management System: regulatory requirements versus management system standards, and how they complement each other.",
+      "canonicalUrl": "https://presencis.com/comparisons/gdpr-vs-iso-27701/"
+    },
+    {
+      "id": "gdpr-vs-lgpd",
+      "sourceId": "gdpr",
+      "targetId": "lgpd",
+      "title": "GDPR vs Brazil LGPD — Complete Comparison Guide",
+      "summary": "Side-by-side comparison of GDPR and Brazil's LGPD: scope, requirements, penalties, and compliance overlap.",
+      "canonicalUrl": "https://presencis.com/comparisons/gdpr-vs-lgpd/"
+    },
+    {
+      "id": "gdpr-vs-nz-privacy",
+      "sourceId": "gdpr",
+      "targetId": "nz-privacy",
+      "title": "GDPR vs New Zealand Privacy Act 2020 — Complete Comparison",
+      "summary": "Side-by-side comparison of the EU GDPR and New Zealand's Privacy Act 2020: scope, requirements, penalties, and compliance overlap.",
+      "canonicalUrl": "https://presencis.com/comparisons/gdpr-vs-nz-privacy/"
+    },
+    {
+      "id": "gdpr-vs-pdpa",
+      "sourceId": "gdpr",
+      "targetId": "pdpa",
+      "title": "GDPR vs Singapore PDPA — Complete Comparison",
+      "summary": "Side-by-side comparison of the EU GDPR and Singapore's Personal Data Protection Act 2012 (amended 2020): scope, requirements, penalties, and compliance overlap.",
+      "canonicalUrl": "https://presencis.com/comparisons/gdpr-vs-pdpa/"
+    },
+    {
+      "id": "gdpr-vs-pipa",
+      "sourceId": "gdpr",
+      "targetId": "pipa",
+      "title": "GDPR vs South Korea PIPA — Complete Comparison Guide",
+      "summary": "Side-by-side comparison of GDPR and South Korea's PIPA: scope, requirements, penalties, and compliance overlap.",
+      "canonicalUrl": "https://presencis.com/comparisons/gdpr-vs-pipa/"
+    },
+    {
+      "id": "gdpr-vs-pipeda",
+      "sourceId": "gdpr",
+      "targetId": "pipeda",
+      "title": "GDPR vs Canada PIPEDA — Complete Comparison Guide",
+      "summary": "Side-by-side comparison of GDPR and Canada's PIPEDA: scope, requirements, penalties, and compliance overlap.",
+      "canonicalUrl": "https://presencis.com/comparisons/gdpr-vs-pipeda/"
+    },
+    {
+      "id": "gdpr-vs-privacy-act-apps",
+      "sourceId": "gdpr",
+      "targetId": "privacy-act-apps",
+      "title": "GDPR vs Australia Privacy Act 1988 (APPs) — Complete Comparison",
+      "summary": "Side-by-side comparison of the EU GDPR and Australia's Privacy Act 1988 with Australian Privacy Principles: scope, requirements, penalties, and compliance overlap.",
+      "canonicalUrl": "https://presencis.com/comparisons/gdpr-vs-privacy-act-apps/"
+    },
+    {
+      "id": "gdpr-vs-uk-diatf",
+      "sourceId": "gdpr",
+      "targetId": "uk-diatf",
+      "title": "GDPR vs UK DIATF — Complete Comparison",
+      "summary": "Side-by-side comparison of the EU GDPR and the UK Digital Identity and Attributes Trust Framework: scope, requirements, and compliance overlap for identity services.",
+      "canonicalUrl": "https://presencis.com/comparisons/gdpr-vs-uk-diatf/"
+    },
+    {
+      "id": "hipaa-vs-caldicott",
+      "sourceId": "hipaa",
+      "targetId": "caldicott",
+      "title": "HIPAA vs Caldicott Principles — Complete Comparison",
+      "summary": "Side-by-side comparison of US HIPAA and the UK Caldicott Principles: federal health privacy law versus NHS information governance framework.",
+      "canonicalUrl": "https://presencis.com/comparisons/hipaa-vs-caldicott/"
+    },
+    {
+      "id": "hipaa-vs-dspt",
+      "sourceId": "hipaa",
+      "targetId": "dspt",
+      "title": "HIPAA vs NHS DSPT — Complete Comparison",
+      "summary": "Side-by-side comparison of US HIPAA and the NHS Data Security and Protection Toolkit: federal health data law versus NHS information security assessment.",
+      "canonicalUrl": "https://presencis.com/comparisons/hipaa-vs-dspt/"
+    },
+    {
+      "id": "hipaa-vs-gdpr",
+      "sourceId": "hipaa",
+      "targetId": "gdpr",
+      "title": "HIPAA vs GDPR — Complete Comparison Guide",
+      "summary": "Side-by-side comparison of HIPAA and GDPR: scope, requirements, penalties, and compliance overlap.",
+      "canonicalUrl": "https://presencis.com/comparisons/hipaa-vs-gdpr/"
+    },
+    {
+      "id": "iso-13485-vs-iso-9001",
+      "sourceId": "iso-13485",
+      "targetId": "iso-9001",
+      "title": "ISO 13485 vs ISO 9001 — Complete Comparison",
+      "summary": "Side-by-side comparison of ISO 13485 (medical device QMS) and ISO 9001 (general QMS): requirements, certification, and when you need each.",
+      "canonicalUrl": "https://presencis.com/comparisons/iso-13485-vs-iso-9001/"
+    },
+    {
+      "id": "iso-14001-vs-iso-45001",
+      "sourceId": "iso-14001",
+      "targetId": "iso-45001",
+      "title": "ISO 14001 vs ISO 45001 — Complete Comparison",
+      "summary": "Side-by-side comparison of ISO 14001 (Environmental Management) and ISO 45001 (Occupational Health and Safety): two management systems frequently integrated.",
+      "canonicalUrl": "https://presencis.com/comparisons/iso-14001-vs-iso-45001/"
+    },
+    {
+      "id": "iso-27001-vs-essential-eight",
+      "sourceId": "iso-27001",
+      "targetId": "essential-eight",
+      "title": "ISO 27001 vs Australia Essential Eight — Complete Comparison",
+      "summary": "Side-by-side comparison of ISO 27001 and Australia's Essential Eight: comprehensive management system versus prioritised mitigation strategies.",
+      "canonicalUrl": "https://presencis.com/comparisons/iso-27001-vs-essential-eight/"
+    },
+    {
+      "id": "iso-27001-vs-iec-62443",
+      "sourceId": "iso-27001",
+      "targetId": "iec-62443",
+      "title": "ISO 27001 vs IEC 62443 — Complete Comparison",
+      "summary": "Side-by-side comparison of ISO 27001 and IEC 62443: information security management versus industrial automation and control system cybersecurity.",
+      "canonicalUrl": "https://presencis.com/comparisons/iso-27001-vs-iec-62443/"
+    },
+    {
+      "id": "iso-27001-vs-ism",
+      "sourceId": "iso-27001",
+      "targetId": "ism",
+      "title": "ISO 27001 vs Australia ISM — Complete Comparison",
+      "summary": "Side-by-side comparison of ISO 27001 and the Australian Government Information Security Manual: international standard versus government security framework.",
+      "canonicalUrl": "https://presencis.com/comparisons/iso-27001-vs-ism/"
+    },
+    {
+      "id": "iso-27001-vs-nist-800-171",
+      "sourceId": "iso-27001",
+      "targetId": "nist-800-171",
+      "title": "ISO 27001 vs NIST SP 800-171 — Complete Comparison",
+      "summary": "Side-by-side comparison of ISO 27001 and NIST SP 800-171: international security standard versus US government CUI protection requirements.",
+      "canonicalUrl": "https://presencis.com/comparisons/iso-27001-vs-nist-800-171/"
+    },
+    {
+      "id": "iso-27001-vs-nist-csf",
+      "sourceId": "iso-27001",
+      "targetId": "nist-csf",
+      "title": "ISO 27001 vs NIST CSF — Complete Comparison Guide",
+      "summary": "Side-by-side comparison of ISO 27001 and NIST Cybersecurity Framework: scope, requirements, penalties, and compliance overlap.",
+      "canonicalUrl": "https://presencis.com/comparisons/iso-27001-vs-nist-csf/"
+    },
+    {
+      "id": "iso-27001-vs-soc-2",
+      "sourceId": "iso-27001",
+      "targetId": "soc-2",
+      "title": "ISO 27001 vs SOC 2 — Complete Comparison Guide",
+      "summary": "Side-by-side comparison of ISO 27001 and SOC 2: scope, requirements, penalties, and compliance overlap.",
+      "canonicalUrl": "https://presencis.com/comparisons/iso-27001-vs-soc-2/"
+    },
+    {
+      "id": "iso-42001-vs-iso-27001",
+      "sourceId": "iso-42001",
+      "targetId": "iso-27001",
+      "title": "ISO 42001 vs ISO 27001 — Complete Comparison",
+      "summary": "Side-by-side comparison of ISO 42001 (AI Management System) and ISO 27001 (Information Security Management System): scope, controls, certification, and integration strategy.",
+      "canonicalUrl": "https://presencis.com/comparisons/iso-42001-vs-iso-27001/"
+    },
+    {
+      "id": "iso-9001-vs-iso-27001",
+      "sourceId": "iso-9001",
+      "targetId": "iso-27001",
+      "title": "ISO 9001 vs ISO 27001 — Complete Comparison",
+      "summary": "Side-by-side comparison of ISO 9001 (Quality Management) and ISO 27001 (Information Security Management): two foundational management systems frequently integrated.",
+      "canonicalUrl": "https://presencis.com/comparisons/iso-9001-vs-iso-27001/"
+    },
+    {
+      "id": "lgpd-vs-appi",
+      "sourceId": "lgpd",
+      "targetId": "appi",
+      "title": "Brazil LGPD vs Japan APPI — Complete Comparison",
+      "summary": "Side-by-side comparison of Brazil's LGPD and Japan's Act on the Protection of Personal Information: scope, requirements, penalties, and compliance overlap.",
+      "canonicalUrl": "https://presencis.com/comparisons/lgpd-vs-appi/"
+    },
+    {
+      "id": "lgpd-vs-pipa",
+      "sourceId": "lgpd",
+      "targetId": "pipa",
+      "title": "Brazil LGPD vs South Korea PIPA — Complete Comparison",
+      "summary": "Side-by-side comparison of Brazil's LGPD and South Korea's Personal Information Protection Act: scope, requirements, penalties, and compliance overlap.",
+      "canonicalUrl": "https://presencis.com/comparisons/lgpd-vs-pipa/"
+    },
+    {
+      "id": "mdr-vs-dcb0129",
+      "sourceId": "mdr",
+      "targetId": "dcb0129",
+      "title": "EU MDR vs UK DCB0129 — Complete Comparison",
+      "summary": "Side-by-side comparison of the EU MDR and NHS England DCB0129: medical device regulation versus clinical risk management for health IT.",
+      "canonicalUrl": "https://presencis.com/comparisons/mdr-vs-dcb0129/"
+    },
+    {
+      "id": "mdr-vs-iso-13485",
+      "sourceId": "mdr",
+      "targetId": "iso-13485",
+      "title": "EU MDR vs ISO 13485 — Complete Comparison",
+      "summary": "Side-by-side comparison of the EU Medical Device Regulation 2017/745 and ISO 13485:2016 quality management system standard for medical devices.",
+      "canonicalUrl": "https://presencis.com/comparisons/mdr-vs-iso-13485/"
+    },
+    {
+      "id": "mifid2-vs-dora",
+      "sourceId": "mifid2",
+      "targetId": "dora",
+      "title": "MiFID II vs DORA — Complete Comparison",
+      "summary": "Side-by-side comparison of MiFID II and DORA: investment services regulation versus digital operational resilience for EU financial entities.",
+      "canonicalUrl": "https://presencis.com/comparisons/mifid2-vs-dora/"
+    },
+    {
+      "id": "mifid2-vs-mas-feat",
+      "sourceId": "mifid2",
+      "targetId": "mas-feat",
+      "title": "MiFID II vs MAS FEAT Principles — Complete Comparison",
+      "summary": "Side-by-side comparison of MiFID II and the MAS FEAT Principles: EU investment regulation versus Singapore's fairness, ethics, accountability, and transparency framework for AI in finance.",
+      "canonicalUrl": "https://presencis.com/comparisons/mifid2-vs-mas-feat/"
+    },
+    {
+      "id": "mifid2-vs-pra-ss1",
+      "sourceId": "mifid2",
+      "targetId": "pra-ss1",
+      "title": "MiFID II vs UK PRA SS1/21 — Complete Comparison",
+      "summary": "Side-by-side comparison of MiFID II and UK PRA SS1/21: EU investment regulation versus UK operational resilience requirements for financial firms.",
+      "canonicalUrl": "https://presencis.com/comparisons/mifid2-vs-pra-ss1/"
+    },
+    {
+      "id": "nis2-vs-cyber-essentials",
+      "sourceId": "nis2",
+      "targetId": "cyber-essentials",
+      "title": "NIS2 Directive vs UK Cyber Essentials — Complete Comparison",
+      "summary": "Side-by-side comparison of the EU NIS2 Directive and UK Cyber Essentials certification: comprehensive cyber regulation versus baseline security controls.",
+      "canonicalUrl": "https://presencis.com/comparisons/nis2-vs-cyber-essentials/"
+    },
+    {
+      "id": "nis2-vs-dora",
+      "sourceId": "nis2",
+      "targetId": "dora",
+      "title": "NIS 2 vs DORA — Cybersecurity for All vs Resilience for Finance",
+      "summary": "NIS 2 is the EU's horizontal cybersecurity directive applying to essential and important entities across all sectors. DORA is the sector-specific regulation for financial entities. Financial institutions must comply with both — DORA is lex specialis where it covers the same ground.",
+      "canonicalUrl": "https://presencis.com/comparisons/nis2-vs-dora/"
+    },
+    {
+      "id": "nis2-vs-essential-eight",
+      "sourceId": "nis2",
+      "targetId": "essential-eight",
+      "title": "NIS2 Directive vs Australia Essential Eight — Complete Comparison",
+      "summary": "Side-by-side comparison of the EU NIS2 Directive and Australia's Essential Eight cybersecurity framework: comprehensive regulation versus prioritised mitigation strategies.",
+      "canonicalUrl": "https://presencis.com/comparisons/nis2-vs-essential-eight/"
+    },
+    {
+      "id": "nis2-vs-iso-27001",
+      "sourceId": "nis2",
+      "targetId": "iso-27001",
+      "title": "NIS2 vs ISO 27001 — Complete Comparison Guide",
+      "summary": "Side-by-side comparison of the NIS2 Directive and ISO 27001: scope, requirements, penalties, and compliance overlap.",
+      "canonicalUrl": "https://presencis.com/comparisons/nis2-vs-iso-27001/"
+    },
+    {
+      "id": "nis2-vs-nist-csf",
+      "sourceId": "nis2",
+      "targetId": "nist-csf",
+      "title": "NIS2 Directive vs NIST CSF 2.0 — Complete Comparison",
+      "summary": "Side-by-side comparison of the EU NIS2 Directive and NIST Cybersecurity Framework 2.0: binding European regulation versus voluntary US framework.",
+      "canonicalUrl": "https://presencis.com/comparisons/nis2-vs-nist-csf/"
+    },
+    {
+      "id": "nist-csf-vs-essential-eight",
+      "sourceId": "nist-csf",
+      "targetId": "essential-eight",
+      "title": "NIST CSF 2.0 vs Australia Essential Eight — Complete Comparison",
+      "summary": "Side-by-side comparison of NIST CSF 2.0 and Australia's Essential Eight: comprehensive cyber framework versus prioritised mitigation strategies.",
+      "canonicalUrl": "https://presencis.com/comparisons/nist-csf-vs-essential-eight/"
+    },
+    {
+      "id": "nz-privacy-vs-privacy-act-apps",
+      "sourceId": "nz-privacy",
+      "targetId": "privacy-act-apps",
+      "title": "New Zealand Privacy Act vs Australia Privacy Act (APPs) — Complete Comparison",
+      "summary": "Side-by-side comparison of the New Zealand Privacy Act 2020 and Australia's Privacy Act 1988 (APPs): scope, requirements, penalties, and compliance overlap for Trans-Tasman operations.",
+      "canonicalUrl": "https://presencis.com/comparisons/nz-privacy-vs-privacy-act-apps/"
+    },
+    {
+      "id": "pipa-vs-appi",
+      "sourceId": "pipa",
+      "targetId": "appi",
+      "title": "South Korea PIPA vs Japan APPI — Complete Comparison",
+      "summary": "Side-by-side comparison of South Korea's PIPA and Japan's APPI: scope, requirements, penalties, and compliance overlap for East Asian operations.",
+      "canonicalUrl": "https://presencis.com/comparisons/pipa-vs-appi/"
+    },
+    {
+      "id": "pipeda-vs-appi",
+      "sourceId": "pipeda",
+      "targetId": "appi",
+      "title": "Canada PIPEDA vs Japan APPI — Complete Comparison",
+      "summary": "Side-by-side comparison of Canada's PIPEDA and Japan's Act on the Protection of Personal Information: scope, requirements, penalties, and compliance overlap.",
+      "canonicalUrl": "https://presencis.com/comparisons/pipeda-vs-appi/"
+    },
+    {
+      "id": "pra-ss1-vs-mas-feat",
+      "sourceId": "pra-ss1",
+      "targetId": "mas-feat",
+      "title": "UK PRA SS1/21 vs MAS FEAT Principles — Complete Comparison",
+      "summary": "Side-by-side comparison of UK PRA SS1/21 operational resilience requirements and Singapore's MAS FEAT principles for AI in finance.",
+      "canonicalUrl": "https://presencis.com/comparisons/pra-ss1-vs-mas-feat/"
+    },
+    {
+      "id": "privacy-act-apps-vs-pdpa",
+      "sourceId": "privacy-act-apps",
+      "targetId": "pdpa",
+      "title": "Australia Privacy Act (APPs) vs Singapore PDPA — Complete Comparison",
+      "summary": "Side-by-side comparison of Australia's Privacy Act 1988 (APPs) and Singapore's PDPA: scope, requirements, penalties, and compliance overlap for Asia-Pacific operations.",
+      "canonicalUrl": "https://presencis.com/comparisons/privacy-act-apps-vs-pdpa/"
+    },
+    {
+      "id": "soc-2-vs-cyber-essentials",
+      "sourceId": "soc-2",
+      "targetId": "cyber-essentials",
+      "title": "SOC 2 vs UK Cyber Essentials — Complete Comparison",
+      "summary": "Side-by-side comparison of SOC 2 and UK Cyber Essentials: comprehensive trust service report versus baseline security certification.",
+      "canonicalUrl": "https://presencis.com/comparisons/soc-2-vs-cyber-essentials/"
+    },
+    {
+      "id": "soc-2-vs-iso-27001",
+      "sourceId": "soc-2",
+      "targetId": "iso-27001",
+      "title": "SOC 2 vs ISO 27001 — Complete Comparison Guide",
+      "summary": "Side-by-side comparison of SOC 2 and ISO 27001: scope, requirements, costs, and compliance overlap for organisations choosing between or maintaining both.",
+      "canonicalUrl": "https://presencis.com/comparisons/soc-2-vs-iso-27001/"
+    },
+    {
+      "id": "soc-2-vs-pci-dss",
+      "sourceId": "soc-2",
+      "targetId": "pci-dss",
+      "title": "SOC 2 vs PCI DSS 4.0 — Complete Comparison",
+      "summary": "Side-by-side comparison of SOC 2 and PCI DSS 4.0: trust service audit versus payment card security standard.",
+      "canonicalUrl": "https://presencis.com/comparisons/soc-2-vs-pci-dss/"
+    },
+    {
+      "id": "sox-vs-soc-2",
+      "sourceId": "sox",
+      "targetId": "soc-2",
+      "title": "SOX vs SOC 2 — Complete Comparison",
+      "summary": "Side-by-side comparison of the Sarbanes-Oxley Act and SOC 2: financial reporting controls versus trust service criteria for service organisations.",
+      "canonicalUrl": "https://presencis.com/comparisons/sox-vs-soc-2/"
+    },
+    {
+      "id": "uk-procurement-act-2023-vs-eu-directive-2009-81",
+      "sourceId": "uk-procurement-act-2023",
+      "targetId": "eu-directive-2009-81",
+      "title": "UK Procurement Act 2023 vs EU Defence Directive 2009/81 — Complete Comparison",
+      "summary": "Side-by-side comparison of the UK Procurement Act 2023 and the EU Defence and Security Procurement Directive for defence procurement.",
+      "canonicalUrl": "https://presencis.com/comparisons/uk-procurement-act-2023-vs-eu-directive-2009-81/"
+    },
+    {
+      "id": "uk-procurement-act-2023-vs-uk-pn-standard",
+      "sourceId": "uk-procurement-act-2023",
+      "targetId": "uk-pn-standard",
+      "title": "UK Procurement Act 2023 vs UK Pipeline Notice Standard — Complete Comparison",
+      "summary": "Side-by-side comparison of the UK Procurement Act 2023 and its pipeline notice transparency requirements.",
+      "canonicalUrl": "https://presencis.com/comparisons/uk-procurement-act-2023-vs-uk-pn-standard/"
+    }
+  ],
+  "sectorCooccurrence": [
+    {
+      "sourceId": "algo-charter",
+      "targetId": "data-governance-act",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "algo-charter",
+      "targetId": "eu-ai-act",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "algo-charter",
+      "targetId": "gdpr",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "algo-charter",
+      "targetId": "iso-27001",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "algo-charter",
+      "targetId": "iso-42001",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "algo-charter",
+      "targetId": "nis2",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "algo-charter",
+      "targetId": "osfi-e23",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "algo-charter",
+      "targetId": "pipeda",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "algo-charter",
+      "targetId": "privacy-act-apps",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "algo-charter",
+      "targetId": "soc-2",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "algo-charter",
+      "targetId": "tb-directive",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "algo-charter",
+      "targetId": "uk-procurement-act-2023",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "anvisa-samd",
+      "targetId": "caldicott",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "anvisa-samd",
+      "targetId": "dcb0129",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "anvisa-samd",
+      "targetId": "dcb0160",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "anvisa-samd",
+      "targetId": "dspt",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "anvisa-samd",
+      "targetId": "dtac",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "anvisa-samd",
+      "targetId": "ehds",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "anvisa-samd",
+      "targetId": "eu-ai-act",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "anvisa-samd",
+      "targetId": "fda-samd",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "anvisa-samd",
+      "targetId": "gdpr",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "anvisa-samd",
+      "targetId": "health-canada-samd",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "anvisa-samd",
+      "targetId": "hipaa",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "anvisa-samd",
+      "targetId": "iso-42001",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "anvisa-samd",
+      "targetId": "mdr",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "anvisa-samd",
+      "targetId": "pmda-samd",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "appi",
+      "targetId": "data-governance-act",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "appi",
+      "targetId": "dpdpa",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "appi",
+      "targetId": "eprivacy-directive",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "appi",
+      "targetId": "eu-ai-act",
+      "sectors": [
+        "education"
+      ]
+    },
+    {
+      "sourceId": "appi",
+      "targetId": "fadp",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "appi",
+      "targetId": "gdpr",
+      "sectors": [
+        "education",
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "appi",
+      "targetId": "il-ppl",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "appi",
+      "targetId": "iso-42001",
+      "sectors": [
+        "education"
+      ]
+    },
+    {
+      "sourceId": "appi",
+      "targetId": "lgpd",
+      "sectors": [
+        "education",
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "appi",
+      "targetId": "nz-privacy",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "appi",
+      "targetId": "pdpa",
+      "sectors": [
+        "education",
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "appi",
+      "targetId": "pipa",
+      "sectors": [
+        "education",
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "appi",
+      "targetId": "pipeda",
+      "sectors": [
+        "education",
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "appi",
+      "targetId": "privacy-act-apps",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "apra-cpg235",
+      "targetId": "apra-cps234",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "apra-cpg235",
+      "targetId": "cfpb-ecoa",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "apra-cpg235",
+      "targetId": "dora",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "apra-cpg235",
+      "targetId": "eu-ai-act",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "apra-cpg235",
+      "targetId": "finma-ai",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "apra-cpg235",
+      "targetId": "fsc-ai",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "apra-cpg235",
+      "targetId": "gdpr",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "apra-cpg235",
+      "targetId": "iso-27001",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "apra-cpg235",
+      "targetId": "mas-feat",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "apra-cpg235",
+      "targetId": "mas-trm",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "apra-cpg235",
+      "targetId": "mifid2",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "apra-cpg235",
+      "targetId": "nis2",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "apra-cpg235",
+      "targetId": "pra-ss1",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "apra-cpg235",
+      "targetId": "rbi-free-ai",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "apra-cpg235",
+      "targetId": "soc-2",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "apra-cpg235",
+      "targetId": "tcfd",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "apra-cps234",
+      "targetId": "cfpb-ecoa",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "apra-cps234",
+      "targetId": "dora",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "apra-cps234",
+      "targetId": "eu-ai-act",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "apra-cps234",
+      "targetId": "finma-ai",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "apra-cps234",
+      "targetId": "fsc-ai",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "apra-cps234",
+      "targetId": "gdpr",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "apra-cps234",
+      "targetId": "iso-27001",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "apra-cps234",
+      "targetId": "mas-feat",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "apra-cps234",
+      "targetId": "mas-trm",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "apra-cps234",
+      "targetId": "mifid2",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "apra-cps234",
+      "targetId": "nis2",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "apra-cps234",
+      "targetId": "pra-ss1",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "apra-cps234",
+      "targetId": "rbi-free-ai",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "apra-cps234",
+      "targetId": "soc-2",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "apra-cps234",
+      "targetId": "tcfd",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "caldicott",
+      "targetId": "dcb0129",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "caldicott",
+      "targetId": "dcb0160",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "caldicott",
+      "targetId": "dspt",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "caldicott",
+      "targetId": "dtac",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "caldicott",
+      "targetId": "ehds",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "caldicott",
+      "targetId": "eu-ai-act",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "caldicott",
+      "targetId": "fda-samd",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "caldicott",
+      "targetId": "gdpr",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "caldicott",
+      "targetId": "health-canada-samd",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "caldicott",
+      "targetId": "hipaa",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "caldicott",
+      "targetId": "iso-42001",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "caldicott",
+      "targetId": "mdr",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "caldicott",
+      "targetId": "pmda-samd",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "cfpb-ecoa",
+      "targetId": "dora",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "cfpb-ecoa",
+      "targetId": "eu-ai-act",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "cfpb-ecoa",
+      "targetId": "finma-ai",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "cfpb-ecoa",
+      "targetId": "fsc-ai",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "cfpb-ecoa",
+      "targetId": "gdpr",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "cfpb-ecoa",
+      "targetId": "iso-27001",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "cfpb-ecoa",
+      "targetId": "mas-feat",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "cfpb-ecoa",
+      "targetId": "mas-trm",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "cfpb-ecoa",
+      "targetId": "mifid2",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "cfpb-ecoa",
+      "targetId": "nis2",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "cfpb-ecoa",
+      "targetId": "pra-ss1",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "cfpb-ecoa",
+      "targetId": "rbi-free-ai",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "cfpb-ecoa",
+      "targetId": "soc-2",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "cfpb-ecoa",
+      "targetId": "tcfd",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "cra",
+      "targetId": "csrd",
+      "sectors": [
+        "manufacturing"
+      ]
+    },
+    {
+      "sourceId": "cra",
+      "targetId": "cyber-essentials",
+      "sectors": [
+        "telecom",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "cra",
+      "targetId": "eprivacy-directive",
+      "sectors": [
+        "telecom"
+      ]
+    },
+    {
+      "sourceId": "cra",
+      "targetId": "essential-eight",
+      "sectors": [
+        "telecom",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "cra",
+      "targetId": "eu-ai-act",
+      "sectors": [
+        "manufacturing",
+        "telecom"
+      ]
+    },
+    {
+      "sourceId": "cra",
+      "targetId": "eucc",
+      "sectors": [
+        "manufacturing",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "cra",
+      "targetId": "gdpr",
+      "sectors": [
+        "manufacturing",
+        "telecom"
+      ]
+    },
+    {
+      "sourceId": "cra",
+      "targetId": "ghg-protocol",
+      "sectors": [
+        "manufacturing"
+      ]
+    },
+    {
+      "sourceId": "cra",
+      "targetId": "ism",
+      "sectors": [
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "cra",
+      "targetId": "iso-27001",
+      "sectors": [
+        "manufacturing",
+        "telecom",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "cra",
+      "targetId": "iso-42001",
+      "sectors": [
+        "manufacturing"
+      ]
+    },
+    {
+      "sourceId": "cra",
+      "targetId": "itsg-33",
+      "sectors": [
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "cra",
+      "targetId": "nis2",
+      "sectors": [
+        "manufacturing",
+        "telecom",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "cra",
+      "targetId": "nist-800-171",
+      "sectors": [
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "cra",
+      "targetId": "pdpa",
+      "sectors": [
+        "telecom"
+      ]
+    },
+    {
+      "sourceId": "cra",
+      "targetId": "soc-2",
+      "sectors": [
+        "telecom",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "csrd",
+      "targetId": "eu-ai-act",
+      "sectors": [
+        "manufacturing"
+      ]
+    },
+    {
+      "sourceId": "csrd",
+      "targetId": "eucc",
+      "sectors": [
+        "manufacturing"
+      ]
+    },
+    {
+      "sourceId": "csrd",
+      "targetId": "gdpr",
+      "sectors": [
+        "manufacturing"
+      ]
+    },
+    {
+      "sourceId": "csrd",
+      "targetId": "ghg-protocol",
+      "sectors": [
+        "manufacturing",
+        "esg"
+      ]
+    },
+    {
+      "sourceId": "csrd",
+      "targetId": "iso-27001",
+      "sectors": [
+        "manufacturing"
+      ]
+    },
+    {
+      "sourceId": "csrd",
+      "targetId": "iso-42001",
+      "sectors": [
+        "manufacturing"
+      ]
+    },
+    {
+      "sourceId": "csrd",
+      "targetId": "nis2",
+      "sectors": [
+        "manufacturing"
+      ]
+    },
+    {
+      "sourceId": "csrd",
+      "targetId": "tcfd",
+      "sectors": [
+        "esg"
+      ]
+    },
+    {
+      "sourceId": "cyber-essentials",
+      "targetId": "eprivacy-directive",
+      "sectors": [
+        "telecom"
+      ]
+    },
+    {
+      "sourceId": "cyber-essentials",
+      "targetId": "essential-eight",
+      "sectors": [
+        "telecom",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "cyber-essentials",
+      "targetId": "eu-ai-act",
+      "sectors": [
+        "telecom"
+      ]
+    },
+    {
+      "sourceId": "cyber-essentials",
+      "targetId": "eucc",
+      "sectors": [
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "cyber-essentials",
+      "targetId": "gdpr",
+      "sectors": [
+        "telecom"
+      ]
+    },
+    {
+      "sourceId": "cyber-essentials",
+      "targetId": "ism",
+      "sectors": [
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "cyber-essentials",
+      "targetId": "iso-27001",
+      "sectors": [
+        "telecom",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "cyber-essentials",
+      "targetId": "itsg-33",
+      "sectors": [
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "cyber-essentials",
+      "targetId": "nis2",
+      "sectors": [
+        "telecom",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "cyber-essentials",
+      "targetId": "nist-800-171",
+      "sectors": [
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "cyber-essentials",
+      "targetId": "pdpa",
+      "sectors": [
+        "telecom"
+      ]
+    },
+    {
+      "sourceId": "cyber-essentials",
+      "targetId": "soc-2",
+      "sectors": [
+        "telecom",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "data-act",
+      "targetId": "data-governance-act",
+      "sectors": [
+        "data-governance"
+      ]
+    },
+    {
+      "sourceId": "data-act",
+      "targetId": "eprivacy-directive",
+      "sectors": [
+        "data-governance"
+      ]
+    },
+    {
+      "sourceId": "data-act",
+      "targetId": "gdpr",
+      "sectors": [
+        "data-governance"
+      ]
+    },
+    {
+      "sourceId": "data-governance-act",
+      "targetId": "dpdpa",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "data-governance-act",
+      "targetId": "eprivacy-directive",
+      "sectors": [
+        "privacy",
+        "data-governance"
+      ]
+    },
+    {
+      "sourceId": "data-governance-act",
+      "targetId": "eu-ai-act",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "data-governance-act",
+      "targetId": "fadp",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "data-governance-act",
+      "targetId": "gdpr",
+      "sectors": [
+        "government",
+        "privacy",
+        "data-governance"
+      ]
+    },
+    {
+      "sourceId": "data-governance-act",
+      "targetId": "il-ppl",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "data-governance-act",
+      "targetId": "iso-27001",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "data-governance-act",
+      "targetId": "iso-42001",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "data-governance-act",
+      "targetId": "lgpd",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "data-governance-act",
+      "targetId": "nis2",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "data-governance-act",
+      "targetId": "nz-privacy",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "data-governance-act",
+      "targetId": "osfi-e23",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "data-governance-act",
+      "targetId": "pdpa",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "data-governance-act",
+      "targetId": "pipa",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "data-governance-act",
+      "targetId": "pipeda",
+      "sectors": [
+        "government",
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "data-governance-act",
+      "targetId": "privacy-act-apps",
+      "sectors": [
+        "government",
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "data-governance-act",
+      "targetId": "soc-2",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "data-governance-act",
+      "targetId": "tb-directive",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "data-governance-act",
+      "targetId": "uk-procurement-act-2023",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "dcb0129",
+      "targetId": "dcb0160",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dcb0129",
+      "targetId": "dspt",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dcb0129",
+      "targetId": "dtac",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dcb0129",
+      "targetId": "ehds",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dcb0129",
+      "targetId": "eu-ai-act",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dcb0129",
+      "targetId": "fda-samd",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dcb0129",
+      "targetId": "gdpr",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dcb0129",
+      "targetId": "health-canada-samd",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dcb0129",
+      "targetId": "hipaa",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dcb0129",
+      "targetId": "iso-42001",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dcb0129",
+      "targetId": "mdr",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dcb0129",
+      "targetId": "pmda-samd",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dcb0160",
+      "targetId": "dspt",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dcb0160",
+      "targetId": "dtac",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dcb0160",
+      "targetId": "ehds",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dcb0160",
+      "targetId": "eu-ai-act",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dcb0160",
+      "targetId": "fda-samd",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dcb0160",
+      "targetId": "gdpr",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dcb0160",
+      "targetId": "health-canada-samd",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dcb0160",
+      "targetId": "hipaa",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dcb0160",
+      "targetId": "iso-42001",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dcb0160",
+      "targetId": "mdr",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dcb0160",
+      "targetId": "pmda-samd",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "disp",
+      "targetId": "essential-eight",
+      "sectors": [
+        "defence"
+      ]
+    },
+    {
+      "sourceId": "disp",
+      "targetId": "eu-ai-act",
+      "sectors": [
+        "defence"
+      ]
+    },
+    {
+      "sourceId": "disp",
+      "targetId": "eucc",
+      "sectors": [
+        "defence"
+      ]
+    },
+    {
+      "sourceId": "disp",
+      "targetId": "ism",
+      "sectors": [
+        "defence"
+      ]
+    },
+    {
+      "sourceId": "disp",
+      "targetId": "iso-27001",
+      "sectors": [
+        "defence"
+      ]
+    },
+    {
+      "sourceId": "disp",
+      "targetId": "itsg-33",
+      "sectors": [
+        "defence"
+      ]
+    },
+    {
+      "sourceId": "disp",
+      "targetId": "nis2",
+      "sectors": [
+        "defence"
+      ]
+    },
+    {
+      "sourceId": "disp",
+      "targetId": "nist-800-171",
+      "sectors": [
+        "defence"
+      ]
+    },
+    {
+      "sourceId": "disp",
+      "targetId": "uk-procurement-act-2023",
+      "sectors": [
+        "defence"
+      ]
+    },
+    {
+      "sourceId": "dora",
+      "targetId": "eu-ai-act",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "dora",
+      "targetId": "finma-ai",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "dora",
+      "targetId": "fsc-ai",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "dora",
+      "targetId": "gdpr",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "dora",
+      "targetId": "iso-27001",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "dora",
+      "targetId": "mas-feat",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "dora",
+      "targetId": "mas-trm",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "dora",
+      "targetId": "mifid2",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "dora",
+      "targetId": "nis2",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "dora",
+      "targetId": "pra-ss1",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "dora",
+      "targetId": "rbi-free-ai",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "dora",
+      "targetId": "soc-2",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "dora",
+      "targetId": "tcfd",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "dpdpa",
+      "targetId": "eprivacy-directive",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "dpdpa",
+      "targetId": "fadp",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "dpdpa",
+      "targetId": "gdpr",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "dpdpa",
+      "targetId": "il-ppl",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "dpdpa",
+      "targetId": "lgpd",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "dpdpa",
+      "targetId": "nz-privacy",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "dpdpa",
+      "targetId": "pdpa",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "dpdpa",
+      "targetId": "pipa",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "dpdpa",
+      "targetId": "pipeda",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "dpdpa",
+      "targetId": "privacy-act-apps",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "dspt",
+      "targetId": "dtac",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dspt",
+      "targetId": "ehds",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dspt",
+      "targetId": "eu-ai-act",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dspt",
+      "targetId": "fda-samd",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dspt",
+      "targetId": "gdpr",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dspt",
+      "targetId": "health-canada-samd",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dspt",
+      "targetId": "hipaa",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dspt",
+      "targetId": "iso-42001",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dspt",
+      "targetId": "mdr",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dspt",
+      "targetId": "pmda-samd",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dtac",
+      "targetId": "ehds",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dtac",
+      "targetId": "eu-ai-act",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dtac",
+      "targetId": "fda-samd",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dtac",
+      "targetId": "gdpr",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dtac",
+      "targetId": "health-canada-samd",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dtac",
+      "targetId": "hipaa",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dtac",
+      "targetId": "iso-42001",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dtac",
+      "targetId": "mdr",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "dtac",
+      "targetId": "pmda-samd",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "ehds",
+      "targetId": "eu-ai-act",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "ehds",
+      "targetId": "fda-samd",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "ehds",
+      "targetId": "gdpr",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "ehds",
+      "targetId": "health-canada-samd",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "ehds",
+      "targetId": "hipaa",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "ehds",
+      "targetId": "iso-42001",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "ehds",
+      "targetId": "mdr",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "ehds",
+      "targetId": "pmda-samd",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "eprivacy-directive",
+      "targetId": "essential-eight",
+      "sectors": [
+        "telecom"
+      ]
+    },
+    {
+      "sourceId": "eprivacy-directive",
+      "targetId": "eu-ai-act",
+      "sectors": [
+        "telecom"
+      ]
+    },
+    {
+      "sourceId": "eprivacy-directive",
+      "targetId": "fadp",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "eprivacy-directive",
+      "targetId": "gdpr",
+      "sectors": [
+        "telecom",
+        "privacy",
+        "data-governance"
+      ]
+    },
+    {
+      "sourceId": "eprivacy-directive",
+      "targetId": "il-ppl",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "eprivacy-directive",
+      "targetId": "iso-27001",
+      "sectors": [
+        "telecom"
+      ]
+    },
+    {
+      "sourceId": "eprivacy-directive",
+      "targetId": "lgpd",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "eprivacy-directive",
+      "targetId": "nis2",
+      "sectors": [
+        "telecom"
+      ]
+    },
+    {
+      "sourceId": "eprivacy-directive",
+      "targetId": "nz-privacy",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "eprivacy-directive",
+      "targetId": "pdpa",
+      "sectors": [
+        "telecom",
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "eprivacy-directive",
+      "targetId": "pipa",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "eprivacy-directive",
+      "targetId": "pipeda",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "eprivacy-directive",
+      "targetId": "privacy-act-apps",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "eprivacy-directive",
+      "targetId": "soc-2",
+      "sectors": [
+        "telecom"
+      ]
+    },
+    {
+      "sourceId": "essential-eight",
+      "targetId": "eu-ai-act",
+      "sectors": [
+        "defence",
+        "telecom"
+      ]
+    },
+    {
+      "sourceId": "essential-eight",
+      "targetId": "eucc",
+      "sectors": [
+        "defence",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "essential-eight",
+      "targetId": "gdpr",
+      "sectors": [
+        "telecom"
+      ]
+    },
+    {
+      "sourceId": "essential-eight",
+      "targetId": "ism",
+      "sectors": [
+        "defence",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "essential-eight",
+      "targetId": "iso-27001",
+      "sectors": [
+        "defence",
+        "telecom",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "essential-eight",
+      "targetId": "itsg-33",
+      "sectors": [
+        "defence",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "essential-eight",
+      "targetId": "nis2",
+      "sectors": [
+        "defence",
+        "telecom",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "essential-eight",
+      "targetId": "nist-800-171",
+      "sectors": [
+        "defence",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "essential-eight",
+      "targetId": "pdpa",
+      "sectors": [
+        "telecom"
+      ]
+    },
+    {
+      "sourceId": "essential-eight",
+      "targetId": "soc-2",
+      "sectors": [
+        "telecom",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "essential-eight",
+      "targetId": "uk-procurement-act-2023",
+      "sectors": [
+        "defence"
+      ]
+    },
+    {
+      "sourceId": "eu-ai-act",
+      "targetId": "eucc",
+      "sectors": [
+        "defence",
+        "manufacturing"
+      ]
+    },
+    {
+      "sourceId": "eu-ai-act",
+      "targetId": "fda-samd",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "eu-ai-act",
+      "targetId": "finma-ai",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "eu-ai-act",
+      "targetId": "fsc-ai",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "eu-ai-act",
+      "targetId": "gdpr",
+      "sectors": [
+        "healthcare",
+        "fintech",
+        "government",
+        "manufacturing",
+        "education",
+        "telecom"
+      ]
+    },
+    {
+      "sourceId": "eu-ai-act",
+      "targetId": "ghg-protocol",
+      "sectors": [
+        "manufacturing"
+      ]
+    },
+    {
+      "sourceId": "eu-ai-act",
+      "targetId": "health-canada-samd",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "eu-ai-act",
+      "targetId": "hipaa",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "eu-ai-act",
+      "targetId": "ism",
+      "sectors": [
+        "defence"
+      ]
+    },
+    {
+      "sourceId": "eu-ai-act",
+      "targetId": "iso-27001",
+      "sectors": [
+        "fintech",
+        "defence",
+        "government",
+        "manufacturing",
+        "telecom"
+      ]
+    },
+    {
+      "sourceId": "eu-ai-act",
+      "targetId": "iso-42001",
+      "sectors": [
+        "healthcare",
+        "government",
+        "manufacturing",
+        "education"
+      ]
+    },
+    {
+      "sourceId": "eu-ai-act",
+      "targetId": "itsg-33",
+      "sectors": [
+        "defence"
+      ]
+    },
+    {
+      "sourceId": "eu-ai-act",
+      "targetId": "lgpd",
+      "sectors": [
+        "education"
+      ]
+    },
+    {
+      "sourceId": "eu-ai-act",
+      "targetId": "mas-feat",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "eu-ai-act",
+      "targetId": "mas-trm",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "eu-ai-act",
+      "targetId": "mdr",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "eu-ai-act",
+      "targetId": "mifid2",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "eu-ai-act",
+      "targetId": "nis2",
+      "sectors": [
+        "fintech",
+        "defence",
+        "government",
+        "manufacturing",
+        "telecom"
+      ]
+    },
+    {
+      "sourceId": "eu-ai-act",
+      "targetId": "nist-800-171",
+      "sectors": [
+        "defence"
+      ]
+    },
+    {
+      "sourceId": "eu-ai-act",
+      "targetId": "osfi-e23",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "eu-ai-act",
+      "targetId": "pdpa",
+      "sectors": [
+        "education",
+        "telecom"
+      ]
+    },
+    {
+      "sourceId": "eu-ai-act",
+      "targetId": "pipa",
+      "sectors": [
+        "education"
+      ]
+    },
+    {
+      "sourceId": "eu-ai-act",
+      "targetId": "pipeda",
+      "sectors": [
+        "government",
+        "education"
+      ]
+    },
+    {
+      "sourceId": "eu-ai-act",
+      "targetId": "pmda-samd",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "eu-ai-act",
+      "targetId": "pra-ss1",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "eu-ai-act",
+      "targetId": "privacy-act-apps",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "eu-ai-act",
+      "targetId": "rbi-free-ai",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "eu-ai-act",
+      "targetId": "soc-2",
+      "sectors": [
+        "fintech",
+        "government",
+        "telecom"
+      ]
+    },
+    {
+      "sourceId": "eu-ai-act",
+      "targetId": "tb-directive",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "eu-ai-act",
+      "targetId": "tcfd",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "eu-ai-act",
+      "targetId": "uk-procurement-act-2023",
+      "sectors": [
+        "defence",
+        "government"
+      ]
+    },
+    {
+      "sourceId": "eucc",
+      "targetId": "gdpr",
+      "sectors": [
+        "manufacturing"
+      ]
+    },
+    {
+      "sourceId": "eucc",
+      "targetId": "ghg-protocol",
+      "sectors": [
+        "manufacturing"
+      ]
+    },
+    {
+      "sourceId": "eucc",
+      "targetId": "ism",
+      "sectors": [
+        "defence",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "eucc",
+      "targetId": "iso-27001",
+      "sectors": [
+        "defence",
+        "manufacturing",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "eucc",
+      "targetId": "iso-42001",
+      "sectors": [
+        "manufacturing"
+      ]
+    },
+    {
+      "sourceId": "eucc",
+      "targetId": "itsg-33",
+      "sectors": [
+        "defence",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "eucc",
+      "targetId": "nis2",
+      "sectors": [
+        "defence",
+        "manufacturing",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "eucc",
+      "targetId": "nist-800-171",
+      "sectors": [
+        "defence",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "eucc",
+      "targetId": "soc-2",
+      "sectors": [
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "eucc",
+      "targetId": "uk-procurement-act-2023",
+      "sectors": [
+        "defence"
+      ]
+    },
+    {
+      "sourceId": "fadp",
+      "targetId": "gdpr",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "fadp",
+      "targetId": "il-ppl",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "fadp",
+      "targetId": "lgpd",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "fadp",
+      "targetId": "nz-privacy",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "fadp",
+      "targetId": "pdpa",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "fadp",
+      "targetId": "pipa",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "fadp",
+      "targetId": "pipeda",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "fadp",
+      "targetId": "privacy-act-apps",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "fda-samd",
+      "targetId": "gdpr",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "fda-samd",
+      "targetId": "health-canada-samd",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "fda-samd",
+      "targetId": "hipaa",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "fda-samd",
+      "targetId": "iso-42001",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "fda-samd",
+      "targetId": "mdr",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "fda-samd",
+      "targetId": "pmda-samd",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "finma-ai",
+      "targetId": "fsc-ai",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "finma-ai",
+      "targetId": "gdpr",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "finma-ai",
+      "targetId": "iso-27001",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "finma-ai",
+      "targetId": "mas-feat",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "finma-ai",
+      "targetId": "mas-trm",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "finma-ai",
+      "targetId": "mifid2",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "finma-ai",
+      "targetId": "nis2",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "finma-ai",
+      "targetId": "pra-ss1",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "finma-ai",
+      "targetId": "rbi-free-ai",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "finma-ai",
+      "targetId": "soc-2",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "finma-ai",
+      "targetId": "tcfd",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "fsc-ai",
+      "targetId": "gdpr",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "fsc-ai",
+      "targetId": "iso-27001",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "fsc-ai",
+      "targetId": "mas-feat",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "fsc-ai",
+      "targetId": "mas-trm",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "fsc-ai",
+      "targetId": "mifid2",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "fsc-ai",
+      "targetId": "nis2",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "fsc-ai",
+      "targetId": "pra-ss1",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "fsc-ai",
+      "targetId": "rbi-free-ai",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "fsc-ai",
+      "targetId": "soc-2",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "fsc-ai",
+      "targetId": "tcfd",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "gdpr",
+      "targetId": "ghg-protocol",
+      "sectors": [
+        "manufacturing"
+      ]
+    },
+    {
+      "sourceId": "gdpr",
+      "targetId": "health-canada-samd",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "gdpr",
+      "targetId": "hipaa",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "gdpr",
+      "targetId": "il-ppl",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "gdpr",
+      "targetId": "iso-27001",
+      "sectors": [
+        "fintech",
+        "government",
+        "manufacturing",
+        "telecom"
+      ]
+    },
+    {
+      "sourceId": "gdpr",
+      "targetId": "iso-42001",
+      "sectors": [
+        "healthcare",
+        "government",
+        "manufacturing",
+        "education"
+      ]
+    },
+    {
+      "sourceId": "gdpr",
+      "targetId": "lgpd",
+      "sectors": [
+        "education",
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "gdpr",
+      "targetId": "mas-feat",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "gdpr",
+      "targetId": "mas-trm",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "gdpr",
+      "targetId": "mdr",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "gdpr",
+      "targetId": "mifid2",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "gdpr",
+      "targetId": "nis2",
+      "sectors": [
+        "fintech",
+        "government",
+        "manufacturing",
+        "telecom"
+      ]
+    },
+    {
+      "sourceId": "gdpr",
+      "targetId": "nz-privacy",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "gdpr",
+      "targetId": "osfi-e23",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "gdpr",
+      "targetId": "pdpa",
+      "sectors": [
+        "education",
+        "telecom",
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "gdpr",
+      "targetId": "pipa",
+      "sectors": [
+        "education",
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "gdpr",
+      "targetId": "pipeda",
+      "sectors": [
+        "government",
+        "education",
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "gdpr",
+      "targetId": "pmda-samd",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "gdpr",
+      "targetId": "pra-ss1",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "gdpr",
+      "targetId": "privacy-act-apps",
+      "sectors": [
+        "government",
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "gdpr",
+      "targetId": "rbi-free-ai",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "gdpr",
+      "targetId": "soc-2",
+      "sectors": [
+        "fintech",
+        "government",
+        "telecom"
+      ]
+    },
+    {
+      "sourceId": "gdpr",
+      "targetId": "tb-directive",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "gdpr",
+      "targetId": "tcfd",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "gdpr",
+      "targetId": "uk-procurement-act-2023",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "ghg-protocol",
+      "targetId": "iso-27001",
+      "sectors": [
+        "manufacturing"
+      ]
+    },
+    {
+      "sourceId": "ghg-protocol",
+      "targetId": "iso-42001",
+      "sectors": [
+        "manufacturing"
+      ]
+    },
+    {
+      "sourceId": "ghg-protocol",
+      "targetId": "nis2",
+      "sectors": [
+        "manufacturing"
+      ]
+    },
+    {
+      "sourceId": "ghg-protocol",
+      "targetId": "tcfd",
+      "sectors": [
+        "esg"
+      ]
+    },
+    {
+      "sourceId": "health-canada-samd",
+      "targetId": "hipaa",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "health-canada-samd",
+      "targetId": "iso-42001",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "health-canada-samd",
+      "targetId": "mdr",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "health-canada-samd",
+      "targetId": "pmda-samd",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "hipaa",
+      "targetId": "iso-42001",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "hipaa",
+      "targetId": "mdr",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "hipaa",
+      "targetId": "pmda-samd",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "il-ppl",
+      "targetId": "lgpd",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "il-ppl",
+      "targetId": "nz-privacy",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "il-ppl",
+      "targetId": "pdpa",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "il-ppl",
+      "targetId": "pipa",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "il-ppl",
+      "targetId": "pipeda",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "il-ppl",
+      "targetId": "privacy-act-apps",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "ism",
+      "targetId": "iso-27001",
+      "sectors": [
+        "defence",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "ism",
+      "targetId": "itsg-33",
+      "sectors": [
+        "defence",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "ism",
+      "targetId": "nis2",
+      "sectors": [
+        "defence",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "ism",
+      "targetId": "nist-800-171",
+      "sectors": [
+        "defence",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "ism",
+      "targetId": "soc-2",
+      "sectors": [
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "ism",
+      "targetId": "uk-procurement-act-2023",
+      "sectors": [
+        "defence"
+      ]
+    },
+    {
+      "sourceId": "iso-27001",
+      "targetId": "iso-42001",
+      "sectors": [
+        "government",
+        "manufacturing"
+      ]
+    },
+    {
+      "sourceId": "iso-27001",
+      "targetId": "itsg-33",
+      "sectors": [
+        "defence",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "iso-27001",
+      "targetId": "mas-feat",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "iso-27001",
+      "targetId": "mas-trm",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "iso-27001",
+      "targetId": "mifid2",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "iso-27001",
+      "targetId": "nis2",
+      "sectors": [
+        "fintech",
+        "defence",
+        "government",
+        "manufacturing",
+        "telecom",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "iso-27001",
+      "targetId": "nist-800-171",
+      "sectors": [
+        "defence",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "iso-27001",
+      "targetId": "osfi-e23",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "iso-27001",
+      "targetId": "pdpa",
+      "sectors": [
+        "telecom"
+      ]
+    },
+    {
+      "sourceId": "iso-27001",
+      "targetId": "pipeda",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "iso-27001",
+      "targetId": "pra-ss1",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "iso-27001",
+      "targetId": "privacy-act-apps",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "iso-27001",
+      "targetId": "rbi-free-ai",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "iso-27001",
+      "targetId": "soc-2",
+      "sectors": [
+        "fintech",
+        "government",
+        "telecom",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "iso-27001",
+      "targetId": "tb-directive",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "iso-27001",
+      "targetId": "tcfd",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "iso-27001",
+      "targetId": "uk-procurement-act-2023",
+      "sectors": [
+        "defence",
+        "government"
+      ]
+    },
+    {
+      "sourceId": "iso-42001",
+      "targetId": "lgpd",
+      "sectors": [
+        "education"
+      ]
+    },
+    {
+      "sourceId": "iso-42001",
+      "targetId": "mdr",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "iso-42001",
+      "targetId": "nis2",
+      "sectors": [
+        "government",
+        "manufacturing"
+      ]
+    },
+    {
+      "sourceId": "iso-42001",
+      "targetId": "osfi-e23",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "iso-42001",
+      "targetId": "pdpa",
+      "sectors": [
+        "education"
+      ]
+    },
+    {
+      "sourceId": "iso-42001",
+      "targetId": "pipa",
+      "sectors": [
+        "education"
+      ]
+    },
+    {
+      "sourceId": "iso-42001",
+      "targetId": "pipeda",
+      "sectors": [
+        "government",
+        "education"
+      ]
+    },
+    {
+      "sourceId": "iso-42001",
+      "targetId": "pmda-samd",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "iso-42001",
+      "targetId": "privacy-act-apps",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "iso-42001",
+      "targetId": "soc-2",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "iso-42001",
+      "targetId": "tb-directive",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "iso-42001",
+      "targetId": "uk-procurement-act-2023",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "itsg-33",
+      "targetId": "nis2",
+      "sectors": [
+        "defence",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "itsg-33",
+      "targetId": "nist-800-171",
+      "sectors": [
+        "defence",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "itsg-33",
+      "targetId": "soc-2",
+      "sectors": [
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "itsg-33",
+      "targetId": "uk-procurement-act-2023",
+      "sectors": [
+        "defence"
+      ]
+    },
+    {
+      "sourceId": "lgpd",
+      "targetId": "nz-privacy",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "lgpd",
+      "targetId": "pdpa",
+      "sectors": [
+        "education",
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "lgpd",
+      "targetId": "pipa",
+      "sectors": [
+        "education",
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "lgpd",
+      "targetId": "pipeda",
+      "sectors": [
+        "education",
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "lgpd",
+      "targetId": "privacy-act-apps",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "mas-feat",
+      "targetId": "mas-trm",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "mas-feat",
+      "targetId": "mifid2",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "mas-feat",
+      "targetId": "nis2",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "mas-feat",
+      "targetId": "pra-ss1",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "mas-feat",
+      "targetId": "rbi-free-ai",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "mas-feat",
+      "targetId": "soc-2",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "mas-feat",
+      "targetId": "tcfd",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "mas-trm",
+      "targetId": "mifid2",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "mas-trm",
+      "targetId": "nis2",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "mas-trm",
+      "targetId": "pra-ss1",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "mas-trm",
+      "targetId": "rbi-free-ai",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "mas-trm",
+      "targetId": "soc-2",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "mas-trm",
+      "targetId": "tcfd",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "mdr",
+      "targetId": "pmda-samd",
+      "sectors": [
+        "healthcare"
+      ]
+    },
+    {
+      "sourceId": "mifid2",
+      "targetId": "nis2",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "mifid2",
+      "targetId": "pra-ss1",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "mifid2",
+      "targetId": "rbi-free-ai",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "mifid2",
+      "targetId": "soc-2",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "mifid2",
+      "targetId": "tcfd",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "nis2",
+      "targetId": "nist-800-171",
+      "sectors": [
+        "defence",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "nis2",
+      "targetId": "osfi-e23",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "nis2",
+      "targetId": "pdpa",
+      "sectors": [
+        "telecom"
+      ]
+    },
+    {
+      "sourceId": "nis2",
+      "targetId": "pipeda",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "nis2",
+      "targetId": "pra-ss1",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "nis2",
+      "targetId": "privacy-act-apps",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "nis2",
+      "targetId": "rbi-free-ai",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "nis2",
+      "targetId": "soc-2",
+      "sectors": [
+        "fintech",
+        "government",
+        "telecom",
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "nis2",
+      "targetId": "tb-directive",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "nis2",
+      "targetId": "tcfd",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "nis2",
+      "targetId": "uk-procurement-act-2023",
+      "sectors": [
+        "defence",
+        "government"
+      ]
+    },
+    {
+      "sourceId": "nist-800-171",
+      "targetId": "soc-2",
+      "sectors": [
+        "cybersecurity"
+      ]
+    },
+    {
+      "sourceId": "nist-800-171",
+      "targetId": "uk-procurement-act-2023",
+      "sectors": [
+        "defence"
+      ]
+    },
+    {
+      "sourceId": "nz-privacy",
+      "targetId": "pdpa",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "nz-privacy",
+      "targetId": "pipa",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "nz-privacy",
+      "targetId": "pipeda",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "nz-privacy",
+      "targetId": "privacy-act-apps",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "osfi-e23",
+      "targetId": "pipeda",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "osfi-e23",
+      "targetId": "privacy-act-apps",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "osfi-e23",
+      "targetId": "soc-2",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "osfi-e23",
+      "targetId": "tb-directive",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "osfi-e23",
+      "targetId": "uk-procurement-act-2023",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "pdpa",
+      "targetId": "pipa",
+      "sectors": [
+        "education",
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "pdpa",
+      "targetId": "pipeda",
+      "sectors": [
+        "education",
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "pdpa",
+      "targetId": "privacy-act-apps",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "pdpa",
+      "targetId": "soc-2",
+      "sectors": [
+        "telecom"
+      ]
+    },
+    {
+      "sourceId": "pipa",
+      "targetId": "pipeda",
+      "sectors": [
+        "education",
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "pipa",
+      "targetId": "privacy-act-apps",
+      "sectors": [
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "pipeda",
+      "targetId": "privacy-act-apps",
+      "sectors": [
+        "government",
+        "privacy"
+      ]
+    },
+    {
+      "sourceId": "pipeda",
+      "targetId": "soc-2",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "pipeda",
+      "targetId": "tb-directive",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "pipeda",
+      "targetId": "uk-procurement-act-2023",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "pra-ss1",
+      "targetId": "rbi-free-ai",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "pra-ss1",
+      "targetId": "soc-2",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "pra-ss1",
+      "targetId": "tcfd",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "privacy-act-apps",
+      "targetId": "soc-2",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "privacy-act-apps",
+      "targetId": "tb-directive",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "privacy-act-apps",
+      "targetId": "uk-procurement-act-2023",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "rbi-free-ai",
+      "targetId": "soc-2",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "rbi-free-ai",
+      "targetId": "tcfd",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "soc-2",
+      "targetId": "tb-directive",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "soc-2",
+      "targetId": "tcfd",
+      "sectors": [
+        "fintech"
+      ]
+    },
+    {
+      "sourceId": "soc-2",
+      "targetId": "uk-procurement-act-2023",
+      "sectors": [
+        "government"
+      ]
+    },
+    {
+      "sourceId": "tb-directive",
+      "targetId": "uk-procurement-act-2023",
+      "sectors": [
+        "government"
+      ]
+    }
+  ]
+}

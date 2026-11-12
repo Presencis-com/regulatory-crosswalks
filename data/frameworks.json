@@ -1,0 +1,1501 @@
+[
+  {
+    "id": "dcb0129",
+    "name": "DCB0129",
+    "officialName": "DCB0129 — Clinical Risk Management: Its Application in the Manufacture of Health IT Systems",
+    "shortName": "DCB0129",
+    "jurisdiction": "UK",
+    "status": "in-force",
+    "effectiveDate": "2018-02-22",
+    "authority": "NHS England",
+    "officialText": "https://digital.nhs.uk/data-and-information/information-standards/information-standards-and-data-collections-including-extractions/publications-and-notifications/standards-and-collections/dcb0129-clinical-risk-management-its-application-in-the-manufacture-of-health-it-systems",
+    "wikidataQid": null,
+    "sectors": [
+      "healthcare"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/dcb0129/"
+  },
+  {
+    "id": "dcb0160",
+    "name": "DCB0160",
+    "officialName": "DCB0160 — Clinical Risk Management: Its Application in the Deployment and Use of Health IT Systems",
+    "shortName": "DCB0160",
+    "jurisdiction": "UK",
+    "status": "in-force",
+    "effectiveDate": "2018-02-22",
+    "authority": "NHS England",
+    "officialText": "https://digital.nhs.uk/data-and-information/information-standards/information-standards-and-data-collections-including-extractions/publications-and-notifications/standards-and-collections/dcb0160-clinical-risk-management-its-application-in-the-deployment-and-use-of-health-it-systems",
+    "wikidataQid": null,
+    "sectors": [
+      "healthcare"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/dcb0160/"
+  },
+  {
+    "id": "dspt",
+    "name": "NHS DSPT",
+    "officialName": "NHS Data Security and Protection Toolkit",
+    "shortName": "DSPT",
+    "jurisdiction": "UK",
+    "status": "in-force",
+    "effectiveDate": "2018-04-01",
+    "authority": "NHS England",
+    "officialText": "https://www.dsptoolkit.nhs.uk",
+    "wikidataQid": null,
+    "sectors": [
+      "healthcare"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/dspt/"
+  },
+  {
+    "id": "dtac",
+    "name": "NHS DTAC",
+    "officialName": "Digital Technology Assessment Criteria",
+    "shortName": "DTAC",
+    "jurisdiction": "UK",
+    "status": "in-force",
+    "effectiveDate": "2021-02-01",
+    "authority": "NHS England",
+    "officialText": "https://transform.england.nhs.uk/key-tools-and-info/digital-technology-assessment-criteria-dtac/",
+    "wikidataQid": null,
+    "sectors": [
+      "healthcare"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/dtac/"
+  },
+  {
+    "id": "caldicott",
+    "name": "Caldicott Principles",
+    "officialName": "The Caldicott Principles — Framework for Handling Patient-Identifiable Information",
+    "shortName": "Caldicott Principles",
+    "jurisdiction": "UK",
+    "status": "in-force",
+    "effectiveDate": "1997-12-01",
+    "authority": "National Data Guardian",
+    "officialText": "https://www.gov.uk/government/publications/the-caldicott-principles",
+    "wikidataQid": "Q5019093",
+    "sectors": [
+      "healthcare"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/caldicott/"
+  },
+  {
+    "id": "iec-62304",
+    "name": "IEC 62304 Medical Device Software",
+    "officialName": "IEC 62304:2006 — Medical device software — Software life cycle processes (consolidated with Amendment 1:2015)",
+    "shortName": "IEC 62304",
+    "jurisdiction": "International",
+    "status": "in-force",
+    "effectiveDate": "2006-05-09",
+    "authority": "International Electrotechnical Commission (IEC)",
+    "officialText": "https://webstore.iec.ch/en/publication/22794",
+    "wikidataQid": "Q5970203",
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/iec-62304/"
+  },
+  {
+    "id": "iso-13485",
+    "name": "ISO 13485",
+    "officialName": "ISO 13485:2016 — Medical Devices — Quality Management Systems — Requirements for Regulatory Purposes",
+    "shortName": "ISO 13485",
+    "jurisdiction": "International",
+    "status": "in-force",
+    "effectiveDate": "2016-03-01",
+    "authority": "ISO",
+    "officialText": "https://www.iso.org/standard/59752.html",
+    "wikidataQid": "Q1654689",
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/iso-13485/"
+  },
+  {
+    "id": "mdr",
+    "name": "EU MDR",
+    "officialName": "Regulation (EU) 2017/745 — Medical Device Regulation",
+    "shortName": "MDR",
+    "jurisdiction": "EU",
+    "status": "in-force",
+    "effectiveDate": "2021-05-26",
+    "authority": "European Commission (DG SANTE)",
+    "officialText": "https://eur-lex.europa.eu/eli/reg/2017/745/oj",
+    "wikidataQid": "Q55610348",
+    "sectors": [
+      "healthcare"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/mdr/"
+  },
+  {
+    "id": "hipaa",
+    "name": "HIPAA",
+    "officialName": "Health Insurance Portability and Accountability Act of 1996 — Privacy, Security, and Breach Notification Rules",
+    "shortName": "HIPAA",
+    "jurisdiction": "US",
+    "status": "in-force",
+    "effectiveDate": "2003-04-14",
+    "authority": "HHS Office for Civil Rights",
+    "officialText": "https://www.hhs.gov/hipaa/index.html",
+    "wikidataQid": "Q606563",
+    "sectors": [
+      "healthcare"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/hipaa/"
+  },
+  {
+    "id": "hitech",
+    "name": "HITECH Act",
+    "officialName": "Health Information Technology for Economic and Clinical Health Act of 2009 (Public Law 111-5, Title XIII, Subtitle D)",
+    "shortName": "HITECH",
+    "jurisdiction": "US",
+    "status": "in-force",
+    "effectiveDate": "2009-02-17",
+    "authority": "HHS Office for Civil Rights",
+    "officialText": "https://www.govinfo.gov/app/details/PLAW-111publ5",
+    "wikidataQid": "Q5690566",
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/hitech/"
+  },
+  {
+    "id": "fda-samd",
+    "name": "FDA AI/ML SaMD",
+    "officialName": "FDA Framework for AI/ML-Based Software as a Medical Device (SaMD)",
+    "shortName": "FDA SaMD",
+    "jurisdiction": "US",
+    "status": "in-force",
+    "effectiveDate": "2021-01-12",
+    "authority": "FDA CDRH",
+    "officialText": "https://www.fda.gov/medical-devices/digital-health-center-excellence/software-medical-device-samd",
+    "wikidataQid": null,
+    "sectors": [
+      "healthcare"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/fda-samd/"
+  },
+  {
+    "id": "iso-21448-sotif",
+    "name": "ISO 21448 Safety of the Intended Functionality (SOTIF)",
+    "officialName": "ISO 21448:2022 — Road vehicles — Safety of the intended functionality",
+    "shortName": "ISO 21448 (SOTIF)",
+    "jurisdiction": "International",
+    "status": "in-force",
+    "effectiveDate": "2022-06-01",
+    "authority": "ISO",
+    "officialText": "https://www.iso.org/standard/77490.html",
+    "wikidataQid": "Q88388270",
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/iso-21448-sotif/"
+  },
+  {
+    "id": "gdpr",
+    "name": "GDPR",
+    "officialName": "Regulation (EU) 2016/679 — General Data Protection Regulation",
+    "shortName": "GDPR",
+    "jurisdiction": "EU",
+    "status": "in-force",
+    "effectiveDate": "2018-05-25",
+    "authority": "European Data Protection Board",
+    "officialText": "https://eur-lex.europa.eu/eli/reg/2016/679/oj",
+    "wikidataQid": "Q1172506",
+    "sectors": [
+      "healthcare",
+      "fintech",
+      "government",
+      "manufacturing",
+      "education",
+      "telecom",
+      "privacy",
+      "data-governance"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/gdpr/"
+  },
+  {
+    "id": "cyber-essentials",
+    "name": "Cyber Essentials",
+    "officialName": "Cyber Essentials and Cyber Essentials Plus — NCSC Certification Scheme",
+    "shortName": "Cyber Essentials",
+    "jurisdiction": "UK",
+    "status": "in-force",
+    "effectiveDate": "2014-06-05",
+    "authority": "NCSC",
+    "officialText": "https://www.ncsc.gov.uk/cyberessentials/overview",
+    "wikidataQid": "Q18349520",
+    "sectors": [
+      "telecom",
+      "cybersecurity"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/cyber-essentials/"
+  },
+  {
+    "id": "nis2",
+    "name": "NIS2 Directive",
+    "officialName": "Directive (EU) 2022/2555 — Network and Information Security Directive (NIS2)",
+    "shortName": "NIS2",
+    "jurisdiction": "EU",
+    "status": "in-force",
+    "effectiveDate": "2023-01-16",
+    "authority": "ENISA",
+    "officialText": "https://eur-lex.europa.eu/eli/dir/2022/2555/oj",
+    "wikidataQid": "Q130213702",
+    "sectors": [
+      "fintech",
+      "defence",
+      "government",
+      "manufacturing",
+      "telecom",
+      "cybersecurity"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/nis2/"
+  },
+  {
+    "id": "iso-27001",
+    "name": "ISO 27001",
+    "officialName": "ISO/IEC 27001:2022 — Information Security Management Systems",
+    "shortName": "ISO 27001",
+    "jurisdiction": "International",
+    "status": "in-force",
+    "effectiveDate": "2022-10-25",
+    "authority": "ISO",
+    "officialText": "https://www.iso.org/standard/82875.html",
+    "wikidataQid": "Q852641",
+    "sectors": [
+      "fintech",
+      "defence",
+      "government",
+      "manufacturing",
+      "telecom",
+      "cybersecurity"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/iso-27001/"
+  },
+  {
+    "id": "iso-42001",
+    "name": "ISO 42001",
+    "officialName": "ISO/IEC 42001:2023 — Artificial Intelligence Management System (AIMS)",
+    "shortName": "ISO 42001",
+    "jurisdiction": "International",
+    "status": "in-force",
+    "effectiveDate": "2023-12-18",
+    "authority": "ISO",
+    "officialText": "https://www.iso.org/standard/81230.html",
+    "wikidataQid": "Q138351903",
+    "sectors": [
+      "healthcare",
+      "government",
+      "manufacturing",
+      "education"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/iso-42001/"
+  },
+  {
+    "id": "data-governance-act",
+    "name": "Data Governance Act",
+    "officialName": "Regulation (EU) 2022/868 --- European Data Governance Act",
+    "shortName": "DGA",
+    "jurisdiction": "EU",
+    "status": "in-force",
+    "effectiveDate": "2023-09-24",
+    "authority": "European Commission (DG CNECT)",
+    "officialText": "https://eur-lex.europa.eu/eli/reg/2022/868/oj",
+    "wikidataQid": "Q107123820",
+    "sectors": [
+      "government",
+      "privacy",
+      "data-governance"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/data-governance-act/"
+  },
+  {
+    "id": "eu-ai-act",
+    "name": "EU AI Act",
+    "officialName": "Regulation (EU) 2024/1689",
+    "shortName": "AI Act",
+    "jurisdiction": "EU",
+    "status": "in-force",
+    "effectiveDate": "2025-02-02",
+    "authority": "European Commission (DG CNECT)",
+    "officialText": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689",
+    "wikidataQid": "Q108456694",
+    "sectors": [
+      "healthcare",
+      "fintech",
+      "defence",
+      "government",
+      "manufacturing",
+      "education",
+      "telecom"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/eu-ai-act/"
+  },
+  {
+    "id": "uk-ai-regulation-white-paper",
+    "name": "UK AI White Paper",
+    "officialName": "A pro-innovation approach to AI regulation (UK AI White Paper)",
+    "shortName": "UK AI White Paper",
+    "jurisdiction": "UK",
+    "status": "in-force",
+    "effectiveDate": "2023-03-29",
+    "authority": "Department for Science, Innovation and Technology (DSIT)",
+    "officialText": "https://www.gov.uk/government/publications/ai-regulation-a-pro-innovation-approach",
+    "wikidataQid": null,
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/uk-ai-regulation-white-paper/"
+  },
+  {
+    "id": "uk-diatf",
+    "name": "UK Trust Framework",
+    "officialName": "UK Digital Identity and Attributes Trust Framework (DIATF)",
+    "shortName": "UK DIATF",
+    "jurisdiction": "UK",
+    "status": "in-force",
+    "effectiveDate": "2024-01-01",
+    "authority": "DSIT",
+    "officialText": "https://www.gov.uk/government/publications/uk-digital-identity-and-attributes-trust-framework-04",
+    "wikidataQid": null,
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/uk-diatf/"
+  },
+  {
+    "id": "uk-procurement-act-2023",
+    "name": "Procurement Act 2023",
+    "officialName": "Procurement Act 2023 (c. 54)",
+    "shortName": "PA 2023",
+    "jurisdiction": "UK",
+    "status": "in-force",
+    "effectiveDate": "2025-02-24",
+    "authority": "Cabinet Office",
+    "officialText": "https://www.legislation.gov.uk/ukpga/2023/54/contents",
+    "wikidataQid": "Q123416463",
+    "sectors": [
+      "defence",
+      "government"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/uk-procurement-act-2023/"
+  },
+  {
+    "id": "uk-pcr-2015",
+    "name": "Public Contracts Regulations 2015",
+    "officialName": "The Public Contracts Regulations 2015 (SI 2015/102)",
+    "shortName": "PCR 2015",
+    "jurisdiction": "UK",
+    "status": "in-force",
+    "effectiveDate": "2015-02-26",
+    "authority": "Cabinet Office",
+    "officialText": "https://www.legislation.gov.uk/uksi/2015/102/contents",
+    "wikidataQid": "Q99645541",
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/uk-pcr-2015/"
+  },
+  {
+    "id": "uk-pn-standard",
+    "name": "UK PPNs",
+    "officialName": "UK Procurement Policy Notes — Government Procurement Standards",
+    "shortName": "UK PPNs",
+    "jurisdiction": "UK",
+    "status": "in-force",
+    "effectiveDate": "2014-10-01",
+    "authority": "Cabinet Office",
+    "officialText": "https://www.gov.uk/government/collections/procurement-policy-notes",
+    "wikidataQid": null,
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/uk-pn-standard/"
+  },
+  {
+    "id": "uk-mlr-2017",
+    "name": "Money Laundering Regulations",
+    "officialName": "The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017",
+    "shortName": "MLR 2017",
+    "jurisdiction": "UK",
+    "status": "in-force",
+    "effectiveDate": "2017-06-26",
+    "authority": "FCA / HMRC",
+    "officialText": "https://www.legislation.gov.uk/uksi/2017/692/contents",
+    "wikidataQid": "Q99599430",
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/uk-mlr-2017/"
+  },
+  {
+    "id": "uk-online-safety",
+    "name": "Online Safety Act",
+    "officialName": "Online Safety Act 2023",
+    "shortName": "OSA",
+    "jurisdiction": "UK",
+    "status": "in-force",
+    "effectiveDate": "2023-10-26",
+    "authority": "Office of Communications (Ofcom)",
+    "officialText": "https://www.legislation.gov.uk/ukpga/2023/50/contents",
+    "wikidataQid": "Q106815750",
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/uk-online-safety/"
+  },
+  {
+    "id": "uk-companies-act-psc",
+    "name": "Companies Act — PSC Register",
+    "officialName": "Companies Act 2006 — Part 21A: Persons with Significant Control",
+    "shortName": "PSC Register",
+    "jurisdiction": "UK",
+    "status": "in-force",
+    "effectiveDate": "2016-04-06",
+    "authority": "Companies House",
+    "officialText": "https://www.legislation.gov.uk/ukpga/2006/46/part/21A",
+    "wikidataQid": "Q5155400",
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/uk-companies-act-psc/"
+  },
+  {
+    "id": "nist-csf",
+    "name": "NIST CSF 2.0",
+    "officialName": "NIST Cybersecurity Framework 2.0",
+    "shortName": "NIST CSF",
+    "jurisdiction": "US",
+    "status": "in-force",
+    "effectiveDate": "2024-02-26",
+    "authority": "NIST",
+    "officialText": "https://www.nist.gov/cyberframework",
+    "wikidataQid": "Q27628045",
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/nist-csf/"
+  },
+  {
+    "id": "cis-controls-v8",
+    "name": "CIS Controls v8",
+    "officialName": "Center for Internet Security Critical Security Controls, version 8.1",
+    "shortName": "CIS Controls",
+    "jurisdiction": "International",
+    "status": "in-force",
+    "effectiveDate": null,
+    "authority": "Center for Internet Security (CIS)",
+    "officialText": "https://www.cisecurity.org/controls/v8-1",
+    "wikidataQid": "Q5162840",
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/cis-controls-v8/"
+  },
+  {
+    "id": "iec-62443",
+    "name": "IEC 62443",
+    "officialName": "IEC 62443 — Industrial Automation and Control Systems Security",
+    "shortName": "IEC 62443",
+    "jurisdiction": "International",
+    "status": "in-force",
+    "effectiveDate": "2018-06-28",
+    "authority": "IEC / ISA",
+    "officialText": "https://webstore.iec.ch/en/publication/33615",
+    "wikidataQid": "Q103033303",
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/iec-62443/"
+  },
+  {
+    "id": "adgm-dp",
+    "name": "ADGM DPR",
+    "officialName": "Abu Dhabi Global Market Data Protection Regulations 2021",
+    "shortName": "ADGM DPR",
+    "jurisdiction": "UAE",
+    "status": "in-force",
+    "effectiveDate": "2021-02-14",
+    "authority": "ADGM Office of Data Protection",
+    "officialText": null,
+    "wikidataQid": null,
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/adgm-dp/"
+  },
+  {
+    "id": "ai-verify",
+    "name": "AI Verify",
+    "officialName": "AI Verify — AI Governance Testing Framework and Toolkit",
+    "shortName": "AI Verify",
+    "jurisdiction": "SGP",
+    "status": "in-force",
+    "effectiveDate": "2022-05-25",
+    "authority": "IMDA Singapore",
+    "officialText": null,
+    "wikidataQid": null,
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/ai-verify/"
+  },
+  {
+    "id": "apra-cps234",
+    "name": "APRA CPS 234",
+    "officialName": "Prudential Standard CPS 234 — Information Security",
+    "shortName": "APRA CPS 234",
+    "jurisdiction": "AU",
+    "status": "in-force",
+    "effectiveDate": "2019-07-01",
+    "authority": "APRA",
+    "officialText": "https://www.apra.gov.au/sites/default/files/cps_234_november_2018_for_public_release.pdf",
+    "wikidataQid": null,
+    "sectors": [
+      "fintech"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/apra-cps234/"
+  },
+  {
+    "id": "dora",
+    "name": "DORA",
+    "officialName": "Regulation (EU) 2022/2554 — Digital Operational Resilience Act",
+    "shortName": "DORA",
+    "jurisdiction": "EU",
+    "status": "in-force",
+    "effectiveDate": "2025-01-17",
+    "authority": "European Banking Authority",
+    "officialText": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj",
+    "wikidataQid": null,
+    "sectors": [
+      "fintech"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/dora/"
+  },
+  {
+    "id": "dsa",
+    "name": "Digital Services Act",
+    "officialName": "Regulation (EU) 2022/2065",
+    "shortName": "Digital Services Act",
+    "jurisdiction": "EU",
+    "status": "in-force",
+    "effectiveDate": "2024-02-17",
+    "authority": null,
+    "officialText": null,
+    "wikidataQid": null,
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/dsa/"
+  },
+  {
+    "id": "eprivacy-directive",
+    "name": "ePrivacy Directive",
+    "officialName": "Directive 2002/58/EC — Privacy and Electronic Communications",
+    "shortName": "ePrivacy Directive",
+    "jurisdiction": "EU",
+    "status": "in-force",
+    "effectiveDate": "2002-07-31",
+    "authority": "European Data Protection Board",
+    "officialText": "https://eur-lex.europa.eu/eli/dir/2002/58/oj",
+    "wikidataQid": null,
+    "sectors": [
+      "telecom",
+      "privacy",
+      "data-governance"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/eprivacy-directive/"
+  },
+  {
+    "id": "essential-eight",
+    "name": "Essential Eight",
+    "officialName": "ASD Essential Eight Maturity Model",
+    "shortName": "Essential Eight",
+    "jurisdiction": "AU",
+    "status": "in-force",
+    "effectiveDate": "2023-11-01",
+    "authority": "ASD / ACSC",
+    "officialText": "https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/essential-eight",
+    "wikidataQid": null,
+    "sectors": [
+      "defence",
+      "telecom",
+      "cybersecurity"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/essential-eight/"
+  },
+  {
+    "id": "eu-aml-package",
+    "name": "EU AML Package",
+    "officialName": "EU Anti-Money Laundering Package (AMLD6, AML Regulation, AMLA Regulation)",
+    "shortName": "EU AML Package",
+    "jurisdiction": "EU",
+    "status": "in-force",
+    "effectiveDate": "2024-07-19",
+    "authority": "European Commission (DG FISMA)",
+    "officialText": "https://eur-lex.europa.eu/eli/dir/2024/1640/oj",
+    "wikidataQid": null,
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/eu-aml-package/"
+  },
+  {
+    "id": "eucc",
+    "name": "EUCC",
+    "officialName": "European Cybersecurity Certification Scheme based on Common Criteria (EUCC)",
+    "shortName": "EUCC",
+    "jurisdiction": "EU",
+    "status": "in-force",
+    "effectiveDate": "2024-02-27",
+    "authority": "ENISA",
+    "officialText": "https://eur-lex.europa.eu/eli/reg_impl/2024/482/oj",
+    "wikidataQid": null,
+    "sectors": [
+      "defence",
+      "manufacturing",
+      "cybersecurity"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/eucc/"
+  },
+  {
+    "id": "fadp",
+    "name": "FADP",
+    "officialName": "Federal Act on Data Protection (FADP) — Bundesgesetz über den Datenschutz (DSG)",
+    "shortName": "FADP",
+    "jurisdiction": "CH",
+    "status": "in-force",
+    "effectiveDate": "2023-09-01",
+    "authority": "FDPIC Switzerland",
+    "officialText": "https://www.fedlex.admin.ch/eli/cc/2022/491/en",
+    "wikidataQid": null,
+    "sectors": [
+      "privacy"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/fadp/"
+  },
+  {
+    "id": "fiea",
+    "name": "FIEA Algo Trading",
+    "officialName": "Financial Instruments and Exchange Act — High-Speed Trading and Algorithmic Trading Regulations",
+    "shortName": "FIEA Algo Trading",
+    "jurisdiction": "JP",
+    "status": "in-force",
+    "effectiveDate": "2018-04-01",
+    "authority": "FSA Japan",
+    "officialText": "https://www.japaneselawtranslation.go.jp/en/laws/view/3986",
+    "wikidataQid": null,
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/fiea/"
+  },
+  {
+    "id": "health-canada-samd",
+    "name": "Health Canada SaMD",
+    "officialName": "Health Canada Guidance — Software as a Medical Device (SaMD)",
+    "shortName": "Health Canada SaMD",
+    "jurisdiction": "CA",
+    "status": "in-force",
+    "effectiveDate": "2023-10-01",
+    "authority": "Health Canada",
+    "officialText": null,
+    "wikidataQid": null,
+    "sectors": [
+      "healthcare"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/health-canada-samd/"
+  },
+  {
+    "id": "ism",
+    "name": "ISM",
+    "officialName": "Australian Government Information Security Manual",
+    "shortName": "ISM",
+    "jurisdiction": "AU",
+    "status": "in-force",
+    "effectiveDate": "2024-06-01",
+    "authority": "ASD / ACSC",
+    "officialText": "https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/ism",
+    "wikidataQid": null,
+    "sectors": [
+      "defence",
+      "cybersecurity"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/ism/"
+  },
+  {
+    "id": "iso-27017",
+    "name": "ISO 27017",
+    "officialName": "ISO/IEC 27017:2015 — Code of Practice for Information Security Controls Based on ISO/IEC 27002 for Cloud Services",
+    "shortName": "ISO 27017",
+    "jurisdiction": "International",
+    "status": "in-force",
+    "effectiveDate": "2015-12-15",
+    "authority": "ISO",
+    "officialText": "https://www.iso.org/standard/43757.html",
+    "wikidataQid": null,
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/iso-27017/"
+  },
+  {
+    "id": "iso-27018",
+    "name": "ISO 27018",
+    "officialName": "ISO/IEC 27018:2019 — Code of Practice for Protection of Personally Identifiable Information (PII) in Public Clouds Acting as PII Processors",
+    "shortName": "ISO 27018",
+    "jurisdiction": "International",
+    "status": "in-force",
+    "effectiveDate": "2019-01-15",
+    "authority": "ISO",
+    "officialText": "https://www.iso.org/standard/76559.html",
+    "wikidataQid": null,
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/iso-27018/"
+  },
+  {
+    "id": "iso-45001",
+    "name": "ISO 45001",
+    "officialName": "ISO 45001:2018 — Occupational Health and Safety Management Systems — Requirements",
+    "shortName": "ISO 45001",
+    "jurisdiction": "International",
+    "status": "in-force",
+    "effectiveDate": "2018-03-12",
+    "authority": "ISO",
+    "officialText": "https://www.iso.org/standard/63787.html",
+    "wikidataQid": null,
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/iso-45001/"
+  },
+  {
+    "id": "iso-9001",
+    "name": "ISO 9001",
+    "officialName": "ISO 9001:2015 — Quality Management Systems — Requirements",
+    "shortName": "ISO 9001",
+    "jurisdiction": "International",
+    "status": "in-force",
+    "effectiveDate": "2015-09-23",
+    "authority": "ISO",
+    "officialText": "https://www.iso.org/standard/62085.html",
+    "wikidataQid": null,
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/iso-9001/"
+  },
+  {
+    "id": "itsg-33",
+    "name": "ITSG-33",
+    "officialName": "IT Security Risk Management: A Lifecycle Approach (ITSG-33)",
+    "shortName": "ITSG-33",
+    "jurisdiction": "CA",
+    "status": "in-force",
+    "effectiveDate": "2012-11-01",
+    "authority": "CCCS / CSE",
+    "officialText": null,
+    "wikidataQid": null,
+    "sectors": [
+      "defence",
+      "cybersecurity"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/itsg-33/"
+  },
+  {
+    "id": "lgpd",
+    "name": "LGPD",
+    "officialName": "Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018)",
+    "shortName": "LGPD",
+    "jurisdiction": "BR",
+    "status": "in-force",
+    "effectiveDate": "2020-09-18",
+    "authority": "ANPD",
+    "officialText": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm",
+    "wikidataQid": null,
+    "sectors": [
+      "education",
+      "privacy"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/lgpd/"
+  },
+  {
+    "id": "mas-feat",
+    "name": "MAS FEAT",
+    "officialName": "MAS Principles to Promote Fairness, Ethics, Accountability, and Transparency (FEAT) in the Use of Artificial Intelligence and Data Analytics",
+    "shortName": "MAS FEAT",
+    "jurisdiction": "SGP",
+    "status": "in-force",
+    "effectiveDate": "2018-11-12",
+    "authority": "MAS Singapore",
+    "officialText": null,
+    "wikidataQid": null,
+    "sectors": [
+      "fintech"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/mas-feat/"
+  },
+  {
+    "id": "mifid2",
+    "name": "MiFID II",
+    "officialName": "Directive 2014/65/EU — Markets in Financial Instruments Directive II (Article 17 — Algorithmic Trading)",
+    "shortName": "MiFID II",
+    "jurisdiction": "EU",
+    "status": "in-force",
+    "effectiveDate": "2018-01-03",
+    "authority": "ESMA",
+    "officialText": "https://eur-lex.europa.eu/eli/dir/2014/65/oj",
+    "wikidataQid": null,
+    "sectors": [
+      "fintech"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/mifid2/"
+  },
+  {
+    "id": "nz-privacy",
+    "name": "NZ Privacy Act",
+    "officialName": "Privacy Act 2020 (New Zealand)",
+    "shortName": "NZ Privacy Act",
+    "jurisdiction": "NZ",
+    "status": "in-force",
+    "effectiveDate": "2020-12-01",
+    "authority": "OPC New Zealand",
+    "officialText": "https://www.legislation.govt.nz/act/public/2020/0031/latest/LMS23223.html",
+    "wikidataQid": null,
+    "sectors": [
+      "privacy"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/nz-privacy/"
+  },
+  {
+    "id": "pci-dss",
+    "name": "PCI DSS v4.0",
+    "officialName": "Payment Card Industry Data Security Standard Version 4.0.1",
+    "shortName": "PCI DSS v4.0",
+    "jurisdiction": "International",
+    "status": "in-force",
+    "effectiveDate": "2024-03-31",
+    "authority": null,
+    "officialText": null,
+    "wikidataQid": null,
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/pci-dss/"
+  },
+  {
+    "id": "pipeda",
+    "name": "PIPEDA",
+    "officialName": "Personal Information Protection and Electronic Documents Act (S.C. 2000, c. 5)",
+    "shortName": "PIPEDA",
+    "jurisdiction": "CA",
+    "status": "in-force",
+    "effectiveDate": "2001-01-01",
+    "authority": "OPC Canada",
+    "officialText": "https://laws-lois.justice.gc.ca/eng/acts/P-8.6/",
+    "wikidataQid": null,
+    "sectors": [
+      "government",
+      "education",
+      "privacy"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/pipeda/"
+  },
+  {
+    "id": "pra-ss1",
+    "name": "PRA SS1/23",
+    "officialName": "PRA Supervisory Statement SS1/23 — Model Risk Management Principles for Banks",
+    "shortName": "PRA SS1/23",
+    "jurisdiction": "UK",
+    "status": "in-force",
+    "effectiveDate": "2024-05-17",
+    "authority": "PRA (Bank of England)",
+    "officialText": "https://www.bankofengland.co.uk/prudential-regulation/publication/2023/model-risk-management-principles-for-banks",
+    "wikidataQid": null,
+    "sectors": [
+      "fintech"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/pra-ss1/"
+  },
+  {
+    "id": "privacy-act-apps",
+    "name": "Privacy Act (APPs)",
+    "officialName": "Privacy Act 1988 — Australian Privacy Principles (APPs)",
+    "shortName": "Privacy Act (APPs)",
+    "jurisdiction": "AU",
+    "status": "in-force",
+    "effectiveDate": "2014-03-12",
+    "authority": "OAIC",
+    "officialText": "https://www.legislation.gov.au/Details/C2014C00076",
+    "wikidataQid": null,
+    "sectors": [
+      "government",
+      "privacy"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/privacy-act-apps/"
+  },
+  {
+    "id": "sfdr",
+    "name": "SFDR",
+    "officialName": "Regulation (EU) 2019/2088",
+    "shortName": "SFDR",
+    "jurisdiction": "EU",
+    "status": "in-force",
+    "effectiveDate": "2021-03-10",
+    "authority": null,
+    "officialText": null,
+    "wikidataQid": null,
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/sfdr/"
+  },
+  {
+    "id": "sox",
+    "name": "Sarbanes-Oxley Act",
+    "officialName": "Sarbanes-Oxley Act of 2002",
+    "shortName": "Sarbanes-Oxley Act",
+    "jurisdiction": "US",
+    "status": "in-force",
+    "effectiveDate": "2002-07-30",
+    "authority": null,
+    "officialText": null,
+    "wikidataQid": null,
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/sox/"
+  },
+  {
+    "id": "tb-directive",
+    "name": "TB Directive on ADM",
+    "officialName": "Treasury Board Directive on Automated Decision-Making",
+    "shortName": "TB Directive on ADM",
+    "jurisdiction": "CA",
+    "status": "in-force",
+    "effectiveDate": "2019-04-01",
+    "authority": "Treasury Board Secretariat",
+    "officialText": null,
+    "wikidataQid": null,
+    "sectors": [
+      "government"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/tb-directive/"
+  },
+  {
+    "id": "apra-cpg235",
+    "name": "APRA CPG 235",
+    "officialName": "Prudential Practice Guide CPG 235 — Managing Data Risk",
+    "shortName": "APRA CPG 235",
+    "jurisdiction": "AU",
+    "status": "in-force",
+    "effectiveDate": "2013-07-01",
+    "authority": "APRA",
+    "officialText": null,
+    "wikidataQid": null,
+    "sectors": [
+      "fintech"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/apra-cpg235/"
+  },
+  {
+    "id": "csrd",
+    "name": "CSRD",
+    "officialName": "Directive (EU) 2022/2464",
+    "shortName": "CSRD",
+    "jurisdiction": "EU",
+    "status": "in-force",
+    "effectiveDate": "2024-01-01",
+    "authority": "European Commission (DG FISMA)",
+    "officialText": "https://eur-lex.europa.eu/eli/dir/2022/2464/oj",
+    "wikidataQid": null,
+    "sectors": [
+      "manufacturing",
+      "esg"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/csrd/"
+  },
+  {
+    "id": "disp",
+    "name": "DISP",
+    "officialName": "Defence Industry Security Program",
+    "shortName": "DISP",
+    "jurisdiction": "AU",
+    "status": "in-force",
+    "effectiveDate": "2019-02-01",
+    "authority": "DISA (Defence Industry Security Program)",
+    "officialText": "https://www.defence.gov.au/security/industry",
+    "wikidataQid": null,
+    "sectors": [
+      "defence"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/disp/"
+  },
+  {
+    "id": "dpdpa",
+    "name": "DPDPA",
+    "officialName": "Digital Personal Data Protection Act, 2023 (Act No. 22 of 2023)",
+    "shortName": "DPDPA",
+    "jurisdiction": "IN",
+    "status": "in-force",
+    "effectiveDate": "2023-08-11",
+    "authority": "Data Protection Board of India",
+    "officialText": "https://www.meity.gov.in/writereaddata/files/Digital%20Personal%20Data%20Protection%20Act%202023.pdf",
+    "wikidataQid": null,
+    "sectors": [
+      "privacy"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/dpdpa/"
+  },
+  {
+    "id": "eidas-2",
+    "name": "eIDAS 2.0",
+    "officialName": "Regulation (EU) 2024/1183 amending Regulation (EU) No 910/2014 — European Digital Identity Framework",
+    "shortName": "eIDAS 2.0",
+    "jurisdiction": "EU",
+    "status": "in-force",
+    "effectiveDate": "2024-05-20",
+    "authority": "European Commission (DG CNECT)",
+    "officialText": "https://eur-lex.europa.eu/eli/reg/2024/1183/oj",
+    "wikidataQid": null,
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/eidas-2/"
+  },
+  {
+    "id": "fsc-ai",
+    "name": "FSC AI Guidelines",
+    "officialName": "FSC Guidelines on Use of Artificial Intelligence in the Financial Sector",
+    "shortName": "FSC AI Guidelines",
+    "jurisdiction": "KR",
+    "status": "in-force",
+    "effectiveDate": "2024-09-01",
+    "authority": "FSC South Korea",
+    "officialText": null,
+    "wikidataQid": null,
+    "sectors": [
+      "fintech"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/fsc-ai/"
+  },
+  {
+    "id": "ghg-protocol",
+    "name": "GHG Protocol",
+    "officialName": "Greenhouse Gas Protocol — A Corporate Accounting and Reporting Standard (Revised Edition)",
+    "shortName": "GHG Protocol",
+    "jurisdiction": "International",
+    "status": "in-force",
+    "effectiveDate": "2004-03-01",
+    "authority": "World Resources Institute / WBCSD",
+    "officialText": "https://ghgprotocol.org/corporate-standard",
+    "wikidataQid": null,
+    "sectors": [
+      "manufacturing",
+      "esg"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/ghg-protocol/"
+  },
+  {
+    "id": "iso-14001",
+    "name": "ISO 14001",
+    "officialName": "ISO 14001:2015 — Environmental Management Systems — Requirements",
+    "shortName": "ISO 14001",
+    "jurisdiction": "International",
+    "status": "in-force",
+    "effectiveDate": "2015-09-15",
+    "authority": "ISO",
+    "officialText": "https://www.iso.org/standard/60857.html",
+    "wikidataQid": null,
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/iso-14001/"
+  },
+  {
+    "id": "iso-26262",
+    "name": "ISO 26262",
+    "officialName": "ISO 26262:2018 — Road vehicles — Functional safety",
+    "shortName": "ISO 26262",
+    "jurisdiction": "International",
+    "status": "in-force",
+    "effectiveDate": "2018-12-01",
+    "authority": "ISO",
+    "officialText": "https://www.iso.org/standard/68383.html",
+    "wikidataQid": null,
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/iso-26262/"
+  },
+  {
+    "id": "pdpa",
+    "name": "PDPA",
+    "officialName": "Personal Data Protection Act 2012 (No. 26 of 2012, as amended)",
+    "shortName": "PDPA",
+    "jurisdiction": "SGP",
+    "status": "in-force",
+    "effectiveDate": "2014-07-02",
+    "authority": "PDPC Singapore",
+    "officialText": "https://sso.agc.gov.sg/Act/PDPA2012",
+    "wikidataQid": null,
+    "sectors": [
+      "education",
+      "telecom",
+      "privacy"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/pdpa/"
+  },
+  {
+    "id": "anvisa-samd",
+    "name": "ANVISA SaMD",
+    "officialName": "ANVISA RDC 657/2022 — Software as a Medical Device Regulation",
+    "shortName": "ANVISA SaMD",
+    "jurisdiction": "BR",
+    "status": "in-force",
+    "effectiveDate": "2022-07-01",
+    "authority": "ANVISA",
+    "officialText": null,
+    "wikidataQid": null,
+    "sectors": [
+      "healthcare"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/anvisa-samd/"
+  },
+  {
+    "id": "appi",
+    "name": "APPI",
+    "officialName": "Act on the Protection of Personal Information (Act No. 57 of 2003, as amended 2022)",
+    "shortName": "APPI",
+    "jurisdiction": "JP",
+    "status": "in-force",
+    "effectiveDate": "2022-04-01",
+    "authority": "PPC Japan",
+    "officialText": "https://www.ppc.go.jp/en/legal/",
+    "wikidataQid": null,
+    "sectors": [
+      "education",
+      "privacy"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/appi/"
+  },
+  {
+    "id": "cbuae-ai",
+    "name": "CBUAE AI",
+    "officialName": "Guidance Note on the Consumer Protection and Responsible Adoption and Use of Artificial Intelligence and Machine Learning by Licensed Financial Institutions in the U.A.E.",
+    "shortName": "CBUAE AI",
+    "jurisdiction": "UAE",
+    "status": "guidance",
+    "effectiveDate": "2026-02-23",
+    "authority": "CBUAE",
+    "officialText": null,
+    "wikidataQid": null,
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/cbuae-ai/"
+  },
+  {
+    "id": "ccpa",
+    "name": "CCPA/CPRA",
+    "officialName": "California Consumer Privacy Act (as amended by CPRA)",
+    "shortName": "CCPA/CPRA",
+    "jurisdiction": "US",
+    "status": "in-force",
+    "effectiveDate": "2023-01-01",
+    "authority": null,
+    "officialText": null,
+    "wikidataQid": null,
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/ccpa/"
+  },
+  {
+    "id": "cfpb-ecoa",
+    "name": "ECOA / Reg B",
+    "officialName": "Equal Credit Opportunity Act (ECOA) and Regulation B — Fair Lending and AI Credit Decisions",
+    "shortName": "ECOA / Reg B",
+    "jurisdiction": "US",
+    "status": "in-force",
+    "effectiveDate": "1974-10-28",
+    "authority": "CFPB",
+    "officialText": "https://www.consumerfinance.gov/rules-policy/regulations/1002/",
+    "wikidataQid": null,
+    "sectors": [
+      "fintech"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/cfpb-ecoa/"
+  },
+  {
+    "id": "data-act",
+    "name": "Data Act",
+    "officialName": "Regulation (EU) 2023/2854",
+    "shortName": "Data Act",
+    "jurisdiction": "EU",
+    "status": "in-force",
+    "effectiveDate": "2025-09-12",
+    "authority": null,
+    "officialText": null,
+    "wikidataQid": null,
+    "sectors": [
+      "data-governance"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/data-act/"
+  },
+  {
+    "id": "eu-directive-2009-81",
+    "name": "Defence Procurement Directive",
+    "officialName": "Directive 2009/81/EC on defence and security procurement",
+    "shortName": "Defence Procurement Directive",
+    "jurisdiction": "EU",
+    "status": "in-force",
+    "effectiveDate": "2009-08-21",
+    "authority": "European Commission (DG GROW)",
+    "officialText": "https://eur-lex.europa.eu/eli/dir/2009/81/oj",
+    "wikidataQid": null,
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/eu-directive-2009-81/"
+  },
+  {
+    "id": "finma-ai",
+    "name": "FINMA AI",
+    "officialName": "FINMA Guidance 08/2024 — Governance and Risk Management when using Artificial Intelligence",
+    "shortName": "FINMA AI",
+    "jurisdiction": "CH",
+    "status": "guidance",
+    "effectiveDate": "2024-12-18",
+    "authority": "FINMA",
+    "officialText": null,
+    "wikidataQid": null,
+    "sectors": [
+      "fintech"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/finma-ai/"
+  },
+  {
+    "id": "mas-trm",
+    "name": "MAS TRM",
+    "officialName": "MAS Technology Risk Management Guidelines",
+    "shortName": "MAS TRM",
+    "jurisdiction": "SGP",
+    "status": "in-force",
+    "effectiveDate": "2021-01-18",
+    "authority": "MAS Singapore",
+    "officialText": null,
+    "wikidataQid": null,
+    "sectors": [
+      "fintech"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/mas-trm/"
+  },
+  {
+    "id": "nist-800-63",
+    "name": "NIST Digital Identity Guidelines",
+    "officialName": "NIST Special Publication 800-63-4 Digital Identity Guidelines",
+    "shortName": "NIST Digital Identity Guidelines",
+    "jurisdiction": "US",
+    "status": "in-force",
+    "effectiveDate": "2025-07-31",
+    "authority": "NIST",
+    "officialText": "https://pages.nist.gov/800-63-4/",
+    "wikidataQid": null,
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/nist-800-63/"
+  },
+  {
+    "id": "pipa",
+    "name": "PIPA",
+    "officialName": "Personal Information Protection Act (Act No. 16930, as amended 2023)",
+    "shortName": "PIPA",
+    "jurisdiction": "KR",
+    "status": "in-force",
+    "effectiveDate": "2011-09-30",
+    "authority": "PIPC South Korea",
+    "officialText": "https://elaw.klri.re.kr/eng_service/lawView.do?hseq=53044",
+    "wikidataQid": null,
+    "sectors": [
+      "education",
+      "privacy"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/pipa/"
+  },
+  {
+    "id": "tcfd",
+    "name": "TCFD",
+    "officialName": "Task Force on Climate-Related Financial Disclosures — Final Report Recommendations",
+    "shortName": "TCFD",
+    "jurisdiction": "International",
+    "status": "voluntary",
+    "effectiveDate": "2017-06-29",
+    "authority": "IFRS Foundation (formerly FSB TCFD)",
+    "officialText": "https://assets.bbhub.io/company/sites/60/2021/10/FINAL-2017-TCFD-Report.pdf",
+    "wikidataQid": null,
+    "sectors": [
+      "fintech",
+      "esg"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/tcfd/"
+  },
+  {
+    "id": "osfi-e23",
+    "name": "OSFI E-23",
+    "officialName": "OSFI Guideline E-23 — Enterprise-Wide Model Risk Management",
+    "shortName": "OSFI E-23",
+    "jurisdiction": "CA",
+    "status": "adopted",
+    "effectiveDate": "2027-05-01",
+    "authority": "OSFI",
+    "officialText": null,
+    "wikidataQid": null,
+    "sectors": [
+      "government"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/osfi-e23/"
+  },
+  {
+    "id": "pmda-samd",
+    "name": "PMDA SaMD",
+    "officialName": "PMDA Guidance on SaMD Classification and AI-Based Medical Devices",
+    "shortName": "PMDA SaMD",
+    "jurisdiction": "JP",
+    "status": "in-force",
+    "effectiveDate": "2023-04-01",
+    "authority": "PMDA Japan",
+    "officialText": null,
+    "wikidataQid": null,
+    "sectors": [
+      "healthcare"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/pmda-samd/"
+  },
+  {
+    "id": "rbi-free-ai",
+    "name": "RBI FREE-AI",
+    "officialName": "Reserve Bank of India — Report of the Committee on the Framework for Responsible and Ethical Enablement of Artificial Intelligence (FREE-AI)",
+    "shortName": "RBI FREE-AI",
+    "jurisdiction": "IN",
+    "status": "proposed",
+    "effectiveDate": "2025-08-13",
+    "authority": "RBI",
+    "officialText": null,
+    "wikidataQid": null,
+    "sectors": [
+      "fintech"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/rbi-free-ai/"
+  },
+  {
+    "id": "il-ppl",
+    "name": "PPL",
+    "officialName": "Privacy Protection Law 5741-1981 (Hok Haganat HaPratiyut)",
+    "shortName": "PPL",
+    "jurisdiction": "IL",
+    "status": "in-force",
+    "effectiveDate": "1981-01-01",
+    "authority": "PPA Israel",
+    "officialText": null,
+    "wikidataQid": null,
+    "sectors": [
+      "privacy"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/il-ppl/"
+  },
+  {
+    "id": "iso-27701",
+    "name": "ISO 27701",
+    "officialName": "ISO/IEC 27701:2025 — Privacy Information Management Systems",
+    "shortName": "ISO 27701",
+    "jurisdiction": "International",
+    "status": "in-force",
+    "effectiveDate": "2025-10-14",
+    "authority": "ISO",
+    "officialText": "https://www.iso.org/standard/71670.html",
+    "wikidataQid": null,
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/iso-27701/"
+  },
+  {
+    "id": "kor-ai-basic",
+    "name": "AI Basic Act",
+    "officialName": "Framework Act on Artificial Intelligence (AI Basic Act)",
+    "shortName": "AI Basic Act",
+    "jurisdiction": "KR",
+    "status": "in-force",
+    "effectiveDate": "2026-01-22",
+    "authority": "MSIT South Korea",
+    "officialText": null,
+    "wikidataQid": null,
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/kor-ai-basic/"
+  },
+  {
+    "id": "cra",
+    "name": "Cyber Resilience Act",
+    "officialName": "Regulation (EU) 2024/2847 — Cyber Resilience Act",
+    "shortName": "Cyber Resilience Act",
+    "jurisdiction": "EU",
+    "status": "in-force",
+    "effectiveDate": "2024-12-10",
+    "authority": "European Commission",
+    "officialText": "https://eur-lex.europa.eu/eli/reg/2024/2847/oj",
+    "wikidataQid": null,
+    "sectors": [
+      "manufacturing",
+      "telecom",
+      "cybersecurity"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/cra/"
+  },
+  {
+    "id": "machinery-regulation",
+    "name": "Machinery Regulation",
+    "officialName": "Regulation (EU) 2023/1230",
+    "shortName": "Machinery Regulation",
+    "jurisdiction": "EU",
+    "status": "adopted",
+    "effectiveDate": "2027-01-20",
+    "authority": null,
+    "officialText": null,
+    "wikidataQid": null,
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/machinery-regulation/"
+  },
+  {
+    "id": "soc-2",
+    "name": "SOC 2",
+    "officialName": "SOC 2 — Trust Services Criteria (AICPA)",
+    "shortName": "SOC 2",
+    "jurisdiction": "US",
+    "status": "in-force",
+    "effectiveDate": "2018-04-15",
+    "authority": "AICPA",
+    "officialText": "https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-2",
+    "wikidataQid": null,
+    "sectors": [
+      "fintech",
+      "government",
+      "telecom",
+      "cybersecurity"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/soc-2/"
+  },
+  {
+    "id": "nist-800-171",
+    "name": "NIST SP 800-171",
+    "officialName": "NIST Special Publication 800-171 Revision 3 — Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations",
+    "shortName": "NIST SP 800-171",
+    "jurisdiction": "US",
+    "status": "in-force",
+    "effectiveDate": "2024-05-14",
+    "authority": "NIST",
+    "officialText": "https://csrc.nist.gov/pubs/sp/800/171/r3/final",
+    "wikidataQid": null,
+    "sectors": [
+      "defence",
+      "cybersecurity"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/nist-800-171/"
+  },
+  {
+    "id": "algo-charter",
+    "name": "Algorithm Charter",
+    "officialName": "Algorithm Charter for Aotearoa New Zealand",
+    "shortName": "Algorithm Charter",
+    "jurisdiction": "NZ",
+    "status": "in-force",
+    "effectiveDate": "2020-07-01",
+    "authority": "NZ Government",
+    "officialText": null,
+    "wikidataQid": null,
+    "sectors": [
+      "government"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/algo-charter/"
+  },
+  {
+    "id": "ehds",
+    "name": "European Health Data Space",
+    "officialName": "Regulation (EU) 2025/327 of the European Parliament and of the Council of 11 February 2025 on the European Health Data Space and amending Directive 2011/24/EU and Regulation (EU) 2024/2847",
+    "shortName": "EHDS",
+    "jurisdiction": "EU",
+    "status": "in-force",
+    "effectiveDate": "2025-03-25",
+    "authority": "Health data access bodies (secondary use), digital health authorities (primary use) and market surveillance authorities (EHR systems), designated by each Member State",
+    "officialText": "https://health.ec.europa.eu/ehealth-digital-health-and-care/european-health-data-space-regulation-ehds_en",
+    "wikidataQid": null,
+    "sectors": [
+      "healthcare"
+    ],
+    "canonicalUrl": "https://presencis.com/regulations/ehds/"
+  },
+  {
+    "id": "hk-pdpo",
+    "name": "Hong Kong PDPO",
+    "officialName": "Personal Data (Privacy) Ordinance (Cap. 486), Hong Kong — consolidated version last updated 1 October 2022",
+    "shortName": "PDPO",
+    "jurisdiction": "HK",
+    "status": "in-force",
+    "effectiveDate": "1996-12-20",
+    "authority": "Office of the Privacy Commissioner for Personal Data, Hong Kong (PCPD)",
+    "officialText": "https://www.elegislation.gov.hk/hk/cap486",
+    "wikidataQid": null,
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/hk-pdpo/"
+  },
+  {
+    "id": "hk-pcpd-ai",
+    "name": "PCPD AI Framework",
+    "officialName": "Artificial Intelligence: Model Personal Data Protection Framework (Office of the Privacy Commissioner for Personal Data, Hong Kong, June 2024)",
+    "shortName": "PCPD AI Framework",
+    "jurisdiction": "HK",
+    "status": "guidance",
+    "effectiveDate": "2024-06",
+    "authority": "Office of the Privacy Commissioner for Personal Data, Hong Kong (PCPD)",
+    "officialText": "https://www.pcpd.org.hk/english/resources_centre/publications/files/ai_protection_framework.pdf",
+    "wikidataQid": null,
+    "sectors": [],
+    "canonicalUrl": "https://presencis.com/regulations/hk-pcpd-ai/"
+  }
+]
