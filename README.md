@@ -21,3 +21,11 @@ node --test
 ```
 
 Node.js 22 or newer. No network calls. Apache-2.0.
+
+## Related Documentation
+
+- [Regulatory Frameworks Corpus (95 active regimes)](https://presencis.com/regulations/)
+- [Compliance Questions & Answers](https://presencis.com/questions/)
+- [Aegis Regulatory Readiness](https://presencis.com/solutions/aegis/) · [Vigil Shadow AI Visibility](https://presencis.com/solutions/vigil/) · [Sovereign AI OS](https://presencis.com/solutions/sovereign-ai-os/)
+- [All Presencis Solutions](https://presencis.com/solutions/)
+
