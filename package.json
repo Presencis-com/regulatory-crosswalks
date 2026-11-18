@@ -13,7 +13,7 @@
     "test": "node --test"
   },
   "author": "Presencis Ltd <github@presencis.com>",
-  "homepage": "https://github.com/Presencis-com/regulatory-crosswalks#readme",
+  "homepage": "https://presencis.com/regulations/",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Presencis-com/regulatory-crosswalks.git"
